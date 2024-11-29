@@ -1,0 +1,124 @@
+/*===== Background Color =====*/
+
+.theme_btn_flat:hover,
+.donation-amounts > a:hover,
+
+.donation-amounts > a.active,
+
+.vidplay-btn a,
+
+.newsletter-new button:hover,
+.countdown .clock > div.label,
+.c-form button:hover, 
+.c-form input.c-button:hover,
+.galry-img a,
+.reply:hover,
+.c-form .btn-send .submit.button:hover,
+.give-submit.give-btn:hover,
+.single-volunteer-singlepage form input[type="submit"]:hover,
+.tags > a:hover,
+.donation-form-banner .give-btn.give-btn-modal:hover,
+.donation-form-banner .give-donation-levels-wrap .give-btn:hover,
+form#give-email-access-form .give-submit:hover,
+.donat-cat,
+.progress-bar,
+.donation-amount-list ul > li a,
+.donation-amount-list ul > li a.wpdonation-button,
+ul.donation-payment-types > li a ,
+.page-loader,
+.close-menu-btn:hover,
+.topfix-btns > a:hover,
+.camps-caro .owl-prev:hover::before, 
+.camps-caro .owl-next:hover::before,
+.vid-sec2 figure a,
+.countdown.even-countdown p,
+.join-form-wrap,
+.mission-video span.play-btn > a,
+.quote-inner,
+header.header-style6 .topbtns-menus > .topfix-btns > a:hover,
+header.header-style6 .topbtns-menus > .topfix-btns > a:focus,
+.tagz .tag,
+.quick-view-box .full-postmeta .shopnow,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.k-product2.list-style .shopnow:hover,
+.full-postmeta .shopnow:hover,
+.over-meta > a.add_to_cart_button:hover,
+.over-meta > a:hover,
+.load-more2.load-mor a:hover,
+.woocommerce #review_form #respond .form-submit input:hover,
+.woocommerce-cart table.cart td.actions button.button:hover, 
+.woocommerce-cart table.cart td.actions a.button:hover, 
+#add_payment_method .wc-proceed-to-checkout a.checkout-button:hover, 
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover, 
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button:hover,
+.shipping-calculator-form > p button.shipping-calcu:hover,
+.woocommerce-page #payment #place_order,
+ .woocommerce button.button.alt:hover,
+  .woocommerce button.button:hover,
+  .woocommerce-product-search button:hover,
+  .header-cart-btn a span{
+
+	background-color: #4f9fed;
+
+}
+.donation-amount-list ul > li a.wpdonation-button,
+ul.donation-payment-types > li a.wpdonation-button {background: #4f9fed;}
+
+
+
+
+/*===== Text Color =====*/
+
+.top-info-bar strong,
+
+.top-info-bar i,
+
+.useful-links > li:hover a,
+
+.useful-links > li:hover,
+
+.contct > li i,
+
+.contct > li strong,
+.breadcrumb-item,
+.address-meta > li i,
+.address-meta > li strong,
+.btm-tagline i,
+.tags > span > i,
+.donation-target-inner > i,
+.custom-amnt-box span,
+.humbrgr-info-bar ul li i,
+.quick-view-box .share,
+.quick-view-box .cat-heading,
+.over-meta > a.added_to_cart{
+
+	color: #4f9fed;
+
+}
+
+
+
+
+
+/*===== Border Color =====*/
+
+.top-social-icons ul li a,
+.worker-contact > ul > li a,
+.owl-prev::before,
+.owl-next::before,
+.contact-social-info li a,
+.single-author-meta > ul li a,
+.opinion,
+.countdown .clock,
+.donation-form-banner .give-donation-levels-wrap .give-btn:hover,
+.custom-amnt-box span,
+.custom-amnt-box input,
+.humbrgr-menu-btn,
+.humbrgr-social-media li a,
+.checkmark,
+.countdown.even-countdown > li,
+.over-meta > a.added_to_cart{
+
+	border-color: #4f9fed;
+
+}

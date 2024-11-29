@@ -1,0 +1,2044 @@
+@media (max-width: 1925px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 220px;z-index: 999;position: fixed;}
+.header-style5 .btm-navigation>ul>li>a {
+	    padding: 26px 19px;
+}
+}
+
+@media (max-width: 1605px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 95px;}
+.donation-wrapper-content.webinane-donation-modal .ps-scrollbar-y-rail {right: 130px !important;}
+}
+
+@media (max-width: 1445px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 82px;}
+.donation-wrapper-content.webinane-donation-modal .ps-scrollbar-y-rail {right: 115px !important;}
+}
+
+@media (max-width: 1370px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 75px;}
+.donation-wrapper-content.webinane-donation-modal .ps-scrollbar-y-rail {right: 108px !important;}
+}
+
+@media (max-width: 1285px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 68px;}
+.donation-wrapper-content.webinane-donation-modal .ps-scrollbar-y-rail {right: 104px !important;}
+}
+
+@media (max-width: 1205px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 63px;}
+.donation-wrapper-content.webinane-donation-modal .ps-scrollbar-y-rail {right: 98px !important;}
+.responsive-header {
+	display: block;
+}
+header {
+	display: none;
+}
+}
+
+@media (max-width: 1030px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 50px;}
+.donation-wrapper-content.webinane-donation-modal .ps-scrollbar-y-rail {right: 83px !important;}
+body.rtl div.social-block a span {padding: 15px 0 0;}
+body.rtl div.signup-volunteer {padding: 0;margin-top: 0;}
+
+.abt-wrap {padding-left: 0;}
+.join-form-wrap {margin-top: -62px;padding: 55px 20px 40px;}
+.socl-box > a {padding: 30px 25px;}
+.less-spacing-banner .banner-style4 {padding: 30px 0 100px;}
+
+}
+
+@media (max-width: 770px){
+.donation-popup span.close, 
+.donation-popup span.close:hover {right: 30px;}
+.donation-wrapper-content.webinane-donation-modal .ps-scrollbar-y-rail {right: 7px !important;}
+.donation-wrapper-content.webinane-donation-modal {padding: 0 15px;}
+.donation-wrapper-content .donation-collection {padding: 0 90px;}
+body.rtl div.camps-caro .owl-nav {
+    right: 0;
+    -webkit-transform: translateX(-38px);
+    -ms-transform: translateX(-38px);
+    -o-transform: translateX(-38px);
+    transform: translateX(-38px);
+}
+
+.mission-title > h2 {font-size: 40px;}
+.mission-title {max-width: 90%;}
+.banner-style4 {padding-bottom: 60px;}
+
+}
+
+/*--- big screen ----*/
+@media screen and (max-width: 1400px) and (min-width: 1200px){
+    .faq-page .news-carousel .owl-prev {
+        left: 40px;
+    }
+    .faq-page .news-carousel .owl-next {
+        right: 40px;
+    }
+
+	.header-style2-pos {padding: 26px 9% 23px 9%;}	
+	header.style2.sticky_header .header-style2-pos.sticky {padding: 10px 9% 10px 9%;}
+	/* .header-bg-image {height: 500px;} */
+	.overlap-header {margin-top: -28.5%;}
+	.header-banner {margin-bottom: 0; bottom: -24%;}
+	.creative-baner-meta span {font-size: 35px;}
+	.baner-detail > a i, .party-moto a.main-btn i, a.main-btn i {margin-right: 6px;}
+	header.style3 .menus {width: 66%;}
+	.caro-meta > h1 {font-size: 50px; line-height: 62px;}
+	.faq-list > li {width: 44% !important;}
+	.question-anser .btn.btn-link.collapsed > span.accord-num,
+	.question-anser .btn.btn-link[aria-expanded="true"] > span.accord-num,
+	.question-anser .btn.btn-link > span.accord-num {
+		font-size: 22px; 
+		margin-right: 16px; 
+		width: 50px; 
+		line-height: 50px;
+	}
+	.question-anser .btn.btn-link span.accord-title {width: 85%;}
+	.question-anser .btn.btn-link {font-size: 17px; line-height: 25px;}
+	.sharing-sidebar {left:-94px;}
+	.sharing-bar li a {padding: 12px 10px;}
+	.sharing-bar li i {margin-right: 12px;}
+	.intro-video-sec {bottom: 30px;}
+	.play-btn {font-size: 100px; margin-right: 15px;}
+	.title-s .title-desc span {font-size: 18px;}
+	.title-s .title-desc h4 {font-size: 35px; line-height: 40px;}
+	.banner-meta p {font-size: 16px; line-height: 26px;}
+	.container-fluid.side-padding {
+	    padding-right: 30px;
+	    padding-left: 30px;
+	}
+	.counter-meta > h3 {font-size: 32px; margin-top: 0px; margin-bottom: 6px;}
+	.counter-timer {padding: 30px 50px;}
+	.eventor {right: -15%;}
+	.banner-meta {padding: 28% 0 60px 0;}
+	.counter-meta > span {font-size: 16px;}
+	.speech-info {width: 85%; left: 105px;}
+	header.style3.sticky_header.sticky .main-menu > ul > li:first-child {border-left: none;}
+	.icon-shap {font-size: 637px;}
+	.shape-bg {padding: 100px 0;}
+	.shape-left {left: -100px;}
+	.inner-content {padding-left: 6%;}
+	.video-content {width: 40%;}
+	.inner-event-content {padding-left: 50px; width: 58%;}
+	.event-btn {width: 24%;}
+	.inner-event-content h2 {font-size: 40px; padding-right: 13%;}
+	.countdown-new > li > span.dots {left: -22px;}
+	.video-content .vid-btn {height: 82px; width: 82px; line-height: 82px; box-shadow: 0px 0px 0 15px rgba(255,255,255,0.26);}
+	.banner-title {padding: 30px 0;}
+}
+
+/*--- tablet landscape ---*/
+@media screen and (max-width: 1024px){
+    
+	header,
+	body.rtl header{display:none;}
+	.responsive-header{display:block;}
+	.container-fluid.side-padding {padding-right: 0; padding-left: 0;}
+	.title-s .title-desc h4 {line-height: 42px; font-size: 34px;}
+	.title-s .title-desc span {font-size: 16px;}
+	.play-btn {font-size: 105px; margin-right: 20px;}
+	.banner-meta p {font-size: 18px;}
+	.act-meta > h4 {font-size: 20px;}
+	.act-meta > span {font-size: 12px;}
+	.activities {padding: 35px 18px;}
+	.creative-baner-meta span {font-size: 35px; line-height: 44px;}
+	.creative-baner-meta span::before {top: -20px;}
+	.creative-baner-meta span::after {bottom: -70px;}
+	.middle-verticle {padding-left: 26px;}
+	.main-title > h3 {font-size: 40px;}
+	.eventor {right: 0px; top: -60px; width: 365px;}
+	.event-tabs.event-slider {padding-top: 80px; padding-bottom: 80px;}
+	.slider-for-event li > span {font-size: 9px;}
+	.slider-for-event li > span a i {font-size: 12px; height: 30px; width: 30px; line-height: 30px;}
+	.countdown > li {margin: 0 12px;}
+	body.rtl ul.countdown > li:first-child {margin-left: 0;}
+	.event-data .countdown > li > span.dots {right: 17px;}
+	.party-moto .tab-content {max-width: 60%;}
+	.banner-title {
+    	padding-left: 40px;
+		padding-top: 0;
+	}
+	.baner-detail {
+		padding-left: 40px;
+		padding-top: 0;
+	}
+	.baner-detail > ul li {
+		font-size: 14px;
+	}
+	.donate-baner {
+		padding-left: 0;
+	}
+	.donate-baner > form {
+		width: 100%;
+	}
+	.funfacts .funmeta{width: 68%;}
+	.counter-meta > h3{font-size: 28px; margin-bottom: 0px; margin-top: 0;}
+	.counter-meta > p {font-size: 15px; margin-bottom: 5px;}
+	.event-data {
+		width: 87%;
+	}
+	.event-data > h2 {
+		font-size: 30px;
+		line-height: 37px;
+		margin-bottom: 35px;
+	}
+	.eventor {
+		padding: 50px 30px;
+	}
+	.eventor > span {
+		font-size: 26px;
+	}
+	.nav.nav-tabs.flex-column{margin-top: 50px;}
+	.twitter-feed {padding: 40px 100px 40px 100px;}
+
+	.faq-list > li {
+		width: 45% !important;
+		margin: 16px;
+		padding: 15px 10px;
+	}
+	.faq-list > li span {
+		line-height: 30px;
+		width: 30px;
+		font-size: 14px;
+	}
+	.card-body {font-size: 14px;}
+	.btn.btn-link {font-size: 15px; padding: 15px 20px;}
+	.caro-meta > h1 {font-size: 48px; margin-bottom: 25px; line-height: 52px;}
+	.feature-with-caro.side-padding {padding-left: 0; padding-right: 0;}
+	.caro-meta > p {
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.speech-info > h2 {font-size: 35px; line-height: 43px;}
+	.quote-title > h2 {
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.quote-title .by {margin-top: 37px;}
+	.quote-desc > p {
+		font-size: 16px;
+	}
+	.contribute-desc {
+		padding-top: 20px;
+	}
+	.page-top {
+		padding: 90px 0;
+	}
+	.top-meta > h2 {
+		font-size: 50px;
+	}
+	.c-form > p.half{width: 48%;}
+	.single-author-meta{width: 70%;}
+	.blog-detail > h1{font-size: 32px; line-height: 40px;}
+	.thumb-list-post li > div{width: 53%;}
+	.thumb-list-post li > div > i{transform: translate(35px);}
+	.event-info > h4{font-size: 20px; line-height: 28px;}
+	.grid-meta > h4 {font-size: 20px;}
+	.grid-meta > span {font-size: 12px;}
+	.counter-meta > i {display: none;}
+	.quries > li {padding-left: 24px;}
+	.baner-detail > a i, .party-moto a.main-btn i, a.main-btn i {
+	    margin-right: 6px;
+	}
+	.funfacts > i {margin-right: 24px; width: 52px;}
+	.award-year .nav-item {margin-right: 120px;}
+	.award-year > li > a::after {right: -90px;}
+	.question-anser .btn.btn-link span.accord-title {width: 75%;}
+	.question-anser .btn.btn-link.collapsed > span.accord-num,
+	.question-anser .btn.btn-link[aria-expanded="true"] > span.accord-num,
+	.question-anser .btn.btn-link > span.accord-num {
+		font-size: 22px; 
+		margin-right: 18px; 
+		width: 50px; 
+		line-height: 50px;
+	}
+	.question-anser .btn.btn-link {padding: 20px; line-height: 25px;}
+	.content-text-area h2 {font-size: 52px;}
+	.subcription-form input.form-control {width: 74%;}
+	.sharing-sidebar {display: none;}
+	.current-post {width: 80%; display: block; margin: 0 auto;}
+	.overlap-header {margin-top: 0;}
+	.our-aim > span {font-size: 15px;}
+	.donate-mockup > img {margin-top: -32px;}
+	.donate-baner {padding-top: 50px; padding-bottom: 50px;}
+	.counter-timer {padding: 35px;}
+	.donate-baner > h4 {font-size: 35px;}
+	.speech-info {left: 14px; width: 80%;}
+	.speeches-nav-innr {padding: 0 31px 0 30px;}
+	.review-box-inner {padding: 45px 30px;}
+	.bg-image2 {background-attachment: unset;}
+	.video-meta > h4 {font-size: 26px;}
+	.question-anser .btn.btn-link {font-size: 16px;}
+	.question-anser .card-body {font-size: 15px; line-height: 26px;}
+	.contact-info:last-child {border: none;}
+	.contact-info {vertical-align: middle;}
+	#moto-sec3 h1 {font-size: 40px; line-height: 55px;}
+	#moto_text p, 
+	#moto-sec2 p, 
+	#moto-sec3 p, 
+	#moto-sec4 p {font-size: 15px;}
+	.shape-bg {padding: 80px 0;}
+	.shape-left {left: -180px;}
+	.icon-shap {font-size: 652px;}
+	.inner-content {padding-left: 5%;}
+	.video-content {width: 47%;}
+	.video-content .vid-btn {height: 72px; width: 72px; font-size: 25px; line-height: 72px; box-shadow: 0px 0px 0 12px rgba(255,255,255,0.26);}
+	.inner-event-content {width: 52%; padding-left: 40px;}
+	.inner-event-content h2 {padding-right: 0; font-size: 30px; line-height: 45px;}
+	.event-loc span {font-size: 17px;}
+	.countdown-new {width: 365px;}
+	.countdown-new > li span {font-size: 30px;}
+	.event-btn {width: 100%; margin-top: 30px;}
+	.main-heading p {font-size: 22px;}
+	.info-mete h5 {padding-left: 10px; font-size: 16px;}
+	.banner-title {padding:0;}
+	.creative-baner-meta h2 {font-size: 45px;}
+	.twitter-date > h4 {font-size: 22px;}
+	.twitter-date > p {font-size: 16px;}
+	.testi-item {padding: 100px 100px 60px;}
+	.question-anser .btn.btn-link {padding: 20px 18px;}
+	.caro-meta {width: 60%;}
+	.speech-info > p {padding-left: 0;}
+	.speeches-nav-car .nav-tabs > li > a {padding: 30px 25px 30px 25px;}
+	.service-info > a {padding: 20px 32px;}
+	.our-events {margin-bottom: 50px;}
+	.awards-info > h4 {line-height: 35px;}
+	.event-info-contnt h2 {font-size: 40px;}
+	.countdown .clock {margin-right: 6px;}
+	.campaign-box {padding: 45px 40px;}
+	.box-shdw-layer {box-shadow: inset 600px -34px 225px -175px rgb(27, 40, 62);}
+	.vid-banner-content h2 {font-size: 44px;}
+	.blog-mini-post {padding-bottom: 25px; margin-bottom: 25px;}
+	.our-clients li {height: 190px;}
+	.newsletter-new {width: 100%; margin-right: 0;}
+	.newsletter-new input[type="email"] {width: 82%;}
+	.social-signup {margin-top: 30px; margin-left: 0; margin-right: 50px;}
+	.btm-tagline p {font-size: 17px;}
+	.contact-info-box {padding: 65px 40px;}
+	.newtest-img {width: 25%;}
+	.newtesti-content {width: 73%; padding-left: 40px;}
+	.newtesti-content p {font-size: 25px; line-height: 38px;}
+	.owl-prev::before {left: -120px;} 
+	.owl-next::before {right: -120px;}
+	.sidebar .widget {padding: 45px 30px;}
+	.opinion {padding: 30px 22px;}
+	.single-author-meta {width: 62%;}
+	.commenter-meta {width: 75%;}
+	.comments > li ul .commenter-meta {width: 68%;}
+	.query-box {padding: 40px;}
+	.volunteer-opp-info ul li span {width: 90%;}
+	.history-txt h2 {font-size: 35px;}
+	#sect1-event {
+	    padding-top: 20px;
+	    padding-bottom: 0;
+	}
+	.event-info-contnt {padding-right: 0;}
+	.donation-wrapper-content .donation-collection {padding: 0 34.8px;}
+    .donation-payment-top p {
+        width: 100%;
+    }
+    .custom-amnt-box input {
+        min-width: 439px;
+    }
+    .header-banner-innr {padding: 60px 0 60px;}
+    .header-banner-innr h1 {font-size: 50px;}
+    .header-banner-innr p {max-width: 80%;}
+    .vid-msg-content {
+	    max-width: 100%;
+	}
+	.vid-msg-content h2 {font-size: 40px; line-height: 50px;}
+	.banner-style4 h1 {font-size: 40px;}
+	.banner-style4 p {font-size: 18px;}
+	.banner-item {padding: 100px 20px;}
+	.banner-item h3 {font-size: 30px; margin-top: 35px;}
+	.banner-style5 h1 {font-size: 40px; line-height: 60px;}
+	.social-block a span {display: block; padding-top: 12px; padding-left: 0;}
+	.social-block {
+	    text-align: center;
+	}
+	.footer-new {
+    	padding: 120px 0;
+    }
+    .heading-sec-style2 h2 {max-width: 100%;}
+    .contnt-desc-box {
+	    max-width: 95%;
+	}
+	.signup-volunteer {
+	    padding-left: 0;
+	}
+
+}
+
+@media screen and (max-width: 980px){
+	header{display:none;}
+	.responsive-header{display:block;}
+	.res-info ul li span.bold-info {width: 7%;}	
+	.res-info ul li span.info-detail {width: 23%;}
+	.play-btn {font-size: 85px;}
+	.title-s .title-desc span {font-size: 14px;}
+	.title-s .title-desc h4 {line-height: 36px; font-size: 28px;}
+	.banner-meta p {font-size: 16px;}
+	.gap {padding: 70px 0;}
+	.sidebar.right {
+		margin-top: 50px;
+	}
+	.sidebar.left {
+		margin-bottom: 50px;
+	}
+	.creative-banner {
+	    text-align: center;
+	}
+	.creative-baner-meta span {
+	    margin-left: 0;
+	}
+	.middle-verticle {
+	    padding-left: 0;
+	}
+	.creative-baner-meta {
+	    padding: 40px 0;
+	}
+	.our-vision-box {
+	    margin-bottom: 30px;
+	}
+	.video-content {width: 100%; text-align: center;}
+	.video-content figure {display: inline-block;}
+	.inner-event-content {width: 100%; padding-left: 0; text-align: center; display: block; margin-top: 25px;}
+	.countdown-new {width: 354px; padding: 12px 30px 12px 30px;}
+	.our-vision-box > figure img{width: 100%;}
+	.news-post {
+	    margin-bottom: 50px;
+	}
+	.twitter-feed {
+	    padding: 25px;
+	}
+	.twitter-caro .owl-dots {
+	    right: 30px;
+	}
+	.party-moto .tab-content {
+	    margin: 0;
+	    max-width: 76%;
+	    vertical-align: middle;
+	}
+	.orginizer > h2 {
+	    font-size: 28px;
+	    line-height: 37px;
+	    margin-bottom: 35px;
+	}
+	.single-title {
+	    font-size: 27px;
+	}
+	.faq-sec {
+	    margin-bottom: 50px;
+	}
+	.ftr-socials > li {
+	    width: 23%;
+	}
+	.btn.btn-link {padding: 15px 30px; font-size: 16px;}
+	.card-body {
+	    font-size: 14px;
+	}
+	.contct > li {font-size: 15px;}
+	.row.remove-row-gap {margin-left: 15px; margin-right: 15px;}
+	.act-meta > span {font-size: 14px;}
+	.creative-baner-meta span {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.banner-title {
+		padding-left: 0px;
+		padding-right: 0;
+	}
+	.banner-title > h4 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	.baner-detail {
+		padding-left: 10px;
+	}
+	.baner-detail > ul {padding-left: 0;}
+	.baner-detail > a {margin-left: 0px;}
+	.baner-detail > ul li {
+		font-size: 14px;
+	}
+	.activity-box {
+		margin-bottom: 50px;
+	}
+	.activity-meta > h4 {
+		font-size: 20px;
+	}
+	.tag > a {
+		font-size: 13px;
+	}
+	.extra-gap-top {
+		margin-top: 0;
+	}
+	.donate-mockup > img {
+		margin-top: 0;
+	}
+	.donate-baner {
+		left: 0;
+		padding-bottom: 50px;
+		padding-left: 0;
+		padding-top: 50px;
+		top: 0;
+		transform: translate(0px);
+	}
+	.donate-mockup {
+		display: none;
+	}
+	.donate-baner > form {
+		width: 78%;
+	}
+	.funmeta .counter {
+		font-size: 35px;
+	}
+	.funfacts .funmeta {
+		width: 60%;
+	}
+	.funmeta > p {
+		font-size: 12px;
+		line-height: 20px;
+		text-transform: capitalize;
+	}
+	.funfacts > i {
+		margin-right: 10px;
+	}
+	.election-baner img {
+		width: 100%;
+	}
+	.counter-timer {
+		padding: 50px 0;
+	}
+	.our-aim{margin-bottom: 30px;}
+	.activities{margin-bottom: 30px;}
+	.faq-list > li{width: 47% !important;}
+	.faq-list > li:nth-child(even){margin-right: 0;}
+	.grid-gallery{margin-bottom: 30px;}
+	.faq-list > li a {
+		width: 78%;
+	}
+	.caro-meta > h1 {
+	    font-size: 30px;
+	    line-height: 35px;
+	    margin-bottom: 15px;
+	}
+	.caro-meta {
+	    top: 40%;
+	    width: 90%;
+	}
+	.speech-info > h2 {
+	    font-size: 30px;
+	    line-height: 38px;
+	    max-width: 100%;
+	}
+	.speeches-nav-car .nav-tabs > li > a {
+	    padding: 15px;
+	} 
+	.speech-info {bottom: 18px; max-width: 100%; left: 15px;}
+	.speech-info > p {display: none;}
+	.speeches-nav-car .slick-prev.slick-arrow, 
+	.speeches-nav-car .slick-next.slick-arrow {display: none !important;}
+	.contribute-form > input {height: 42px; padding: 8px 30px;}
+	.contribute-form > button {padding: 8px 30px;}
+	.review-box-inner {
+	    padding: 40px 0;
+	    height: 280px;
+	}
+	.contribute-desc > h2 {
+	    font-size: 32px;
+	    line-height: 40px;
+	    margin-bottom: 5px;
+	}
+	.contribute-desc > p {
+	    font-size: 15px;
+	    line-height: 22px;
+	}
+	.contribute-form {
+	    margin-top: 17px;
+	}
+	.about-video-sec .align-left{width: 47%;}
+
+	.thumb-list-post li > div > i {
+		transform: translate(10px);
+	}
+	.thumb-list-post li > div h4{width: 100%;}
+	.info-box{width: 290px; padding: 22px 20px;}
+	.info-box > p {margin-bottom: 8px;}
+	.info-box > a {bottom:-30px}
+	.question-anser .main-title h3{font-size: 22px;}
+	.event-tabs.event-slider {
+	    padding-bottom: 40px;
+	    width: 100%;
+	}
+	.event-data {
+	    padding-left: 15px;
+	}
+	.eventor {
+	    position: unset;
+	    width: 100%;
+	    margin-bottom: 40px;
+	}
+	.slick-vertical .slick-slide{border: none !important;}
+	.slick-prev.slick-arrow {right: -71px;}
+	.slick-next.slick-arrow {right: -56px;}
+	.remove-golumns-gap .vc_column_container > .vc_column-inner {
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.counter-meta > i {display: block;}
+	.countdown > li > span.dots {right: 18px;}
+	footer .widget {margin-bottom: 30px;}
+	.footer-inner-cols .vc_column_container {
+		padding: 0px 75px;
+	}
+	.feature-with-caro.side-padding {padding-right: 0px; padding-left: 0px;}
+	.caro-meta > span {height: 60px; width: 60px; line-height: 60px;}
+	.caro-meta > p {padding-left: 25px;}
+	.caro-meta > span > a {font-size: 30px;}
+	.quote-title > h2 {line-height: 40px; padding-right: 0px;}
+	.quote-desc > p {font-size: 15px; line-height: 30px;}
+	.speech-nav-box > h4 {font-size: 14px; line-height: 22px;}
+	.our-events {margin-bottom: 45px;}
+	.single-actavista_event aside.sidebar {margin-top: 30px;}
+	.videos-tab .nav-item {margin-right: 60px;}
+	.video-meta {padding: 0 20px;}
+	.video-meta > h4 {font-size: 22px;}
+	.videos-tab .nav-item::before {right: -30px;}
+	.award-year .nav-item {margin-right: 65px;}
+	body.rtl .award-year li.nav-item {margin-left: 65px;}
+	.award-year > li > a::after {right: -54px; width: 40px;}
+	body.rtl .award-year > li.nav-item > a::after {left: -54px; width: 40px;}
+	.award-detail figure img{display: block; margin: 0 auto;}
+	.award-detail figure {margin-right: 0; float: none;}
+	body.rtl div.award-detail figure {margin-left: 0;float: none;}
+	.team-right-sidebar {margin-top: 50px;}
+	.question-anser .btn.btn-link {font-size: 16px; line-height: 23px;}
+	.question-anser .card-body {font-size: 15px;}
+	.info-mete {width: 100%;}
+	.contact-info:last-child {border: none; padding-top:0;}
+	.paginate {margin-bottom: 30px;}
+	.blog-post:nth-last-child(2) {padding-bottom: 40px; margin-bottom: 40px;}
+	.content-text-area h2 {font-size: 40px; line-height: 55px;}
+	.content-text-area .countdown > li {margin: 0 8px;}
+	.content-text-area .countdown > li > span.dots {right: 13px;}
+	.subcription-form input.form-control {width: 65%;}
+	.coming-soon-content .social-share-icon li {margin-right: 5px;}
+	.blog-detail > span {padding-left: 15px;}
+	.current-post {margin: 0 auto; display: block;}
+	.thumb-list-post li > div > span {font-size: 12px;}
+	.post-comments-c {font-size: 14px;}
+	.tab-btn li a {font-size: 14px;}
+	.comment-area {margin-bottom: 20px;}
+	.sported-media {margin-top: 20px;}
+	.custom-awards > div,
+	body.rtl .custom-awards > div {border: none;}
+	.custom-awards > div:nth-child(1) .our-awards, 
+	.custom-awards > div:nth-child(2) .our-awards, 
+	.custom-awards > div:nth-child(3) .our-awards {padding-top: 20px;}
+	.custom-awards > div:nth-child(4) .our-awards, 
+	.custom-awards > div:nth-child(5) .our-awards, 
+	.custom-awards > div:nth-child(6) .our-awards {padding-bottom: 20px;}
+	.custom-awards > div .our-awards {padding: 20px 30px;}
+	.question-anser .btn.btn-link.collapsed > span.accord-num, 
+	.question-anser .btn.btn-link[aria-expanded="true"] > span.accord-num, 
+	.question-anser .btn.btn-link > span.accord-num {line-height: 40px; width: 40px;}
+	#wpcf7-f797-p750-o1 .c-form p {width: 100%;} 
+	.vc_custom_1545978480278 h1 {font-size: 32px;}
+	.main-search-notfound {
+		margin-bottom: 30px;
+	}
+	.shape-bg {padding: 60px 0;}
+	.shape-left {left: -180px;}
+	.icon-shap {font-size: 510px;}
+	.inner-event-content {padding-left: 30px;}
+	.become_member {padding-left: 0; padding-right: 0; margin-bottom: 40px;}
+	.become_member p {margin-bottom: 30px;}
+	.testimonial-sec .owl-prev {left: -40px;}
+	.testimonial-sec .owl-next {right: -40px;}
+	.main-heading p {font-size: 20px;}
+	.c-form input {padding: 15px 30px; font-size: 14px; height: 50px;}
+	.info-mete img {width: 10%;}
+	.info-mete h5 {width: 75%;}
+	.c-form textarea {padding: 15px 30px; font-size: 14px; }
+	.c-form button, .c-form input.c-button {line-height: normal;}
+	.info-box > a {padding: 3px 40px;}
+	.question-anser .btn.btn-link {padding: 20px 35px;}
+	.event-detail-meta > h1 {font-size: 32px;}
+	.ftr-socials > li > a > i {display: block; margin: 0 auto;}
+	.ftr-socials > li > a span {width: 100%; text-align: center; margin-top: 10px;}
+	.review-box-inner > p {font-size: 14px;}
+	.review-box-inner > i {font-size: 45px;}
+	.service-info > a {width: 100%;}
+	.text-center .creative-baner-meta {width: 80%;}
+	.creative-baner-meta h2 {font-size: 42px;}
+	.content-below {position: relative; top: 0; margin-top: 30px;}
+	.event-info-contnt {padding-bottom: 50px;}
+	.countdown .clock {margin-right: 12px;}
+	.campaign-box {margin-top: 30px;}
+	.rmve-extra-btm {
+	  margin-top: -30px
+	}
+	.donation-form-banner h4 {font-size: 40px;}
+	.donation-btn {display: block; margin-left: 0; margin-top: 30px;}
+	.agree-donation {margin-top: 40px;}
+	.funfacts-item {margin-bottom: 30px;}
+	.funfacts-item span, 
+	.funfacts-item i.symbol {font-size: 40px;}
+	.banner-txt {width: 100%; margin-bottom: 30px;}
+	.box-shdw-layer {width: 100%;}
+	.blog-main-img img {width: 100%; height: auto;}
+	.blog-main-post {margin-bottom: 30px;}
+	.newsletter-new input[type="email"] {width: 76%;}
+	.social-signup {margin-top: 40px;}
+	footer .gap {padding: 70px 0 40px 0;}
+	.footer-btn {margin-top: 15px;}
+	.contact-info-box {margin-top: 30px;}
+	.newtest-img {width: 28%;}
+	.newtesti-content {width: 71%;}
+	.newtesti-content p {font-size: 22px; line-height: 36px;}
+	.newtesti-content span {font-size: 22px;}
+	.owl-prev::before, 
+	.owl-next::before {line-height: 50px; height: 50px; width: 50px; left: -90px;}
+	.owl-next::before {right: -90px; left: auto;}
+	.history-block {margin-bottom: 40px;}
+	.history-block.even-way .history-txt {margin-bottom: 30px;}
+	.history-block.odd-way .history-img figure {margin-bottom: 30px;}
+	.top-meta > h2 {font-size: 40px;}
+	.event-countdown.countdown {margin-left: 10px;}
+	.query-box {margin-bottom: 30px;}
+	.row.merged > div:nth-last-of-type(2) .workers,
+	.row.merged > div:nth-last-of-type(3) .workers {margin-bottom: 90px;}
+	.volunteer-opp-info span > strong {width: 100%;}
+	.volunteer-opp-info ul li span {width: 100%;}
+	.volunteer-opp-info ul::before {display: none;}
+	.volunteer-opp-info i {display: block; margin-right: 0; margin-left: 0;}
+	body.rtl div.volunteer-opp-info ul li {margin: 0 0 10px;}    
+    body.rtl div.volunteer-opp-info i {margin: 0;}
+	.volunteer-opp-info ul li {margin-bottom: 10px; margin-left: 0;}
+	.history-txt h2 {font-size: 32px;}
+	#sect1-event {padding-top: 0;}
+	#custom-image-box.gap {
+	    padding-top: 20px;
+	}
+	#custom-image-box.gap {
+	    padding-top: 20px;
+	    padding-bottom: 0;
+	}
+	#sect2-event {
+	    padding-bottom: 50px;
+	}
+	.event-img > a {bottom: 25px;}
+	.new-box-shadow .row > div.res-pt {padding: 70px 80px 70px 70px !important;}
+	body.rtl div.new-box-shadow .row > div.res-pt {
+        width: calc(100% - 30px);
+        margin-right: 15px;
+    }    
+    body.rtl div.new-box-shadow .row > div.res-nooverlap {
+        margin-right: 15px;
+    }
+	.blog-detail .tags {margin-bottom: 50px;}
+	.comment-area {margin-top: 50px;}
+	.sidebar {margin-top: 20px;}
+	.event-img img {width: 100%;}
+	.donation-info {
+        margin-bottom: 40px;
+    }
+    .donation-target-inner > i::after {bottom: 10px;}
+    .donation-wrapper-content .donation-collection {
+        padding: 0 115px;
+    }
+    .donation-wrapper-content .donation-target-inner {
+        max-width: 95%;
+        margin-left: 2.5%;
+    }
+    .header-banner-innr {max-width: 100%;}
+    .header-banner-innr h1 {
+	    font-size: 40px;
+	}
+	.vid-msg-content {margin-bottom: 30px;}
+	.vid-msg-pop img {width: 100%;}
+	.banner-style4,
+	.banner-style5 {max-width: 100%; padding: 0;}
+	.banner-item {
+	    padding: 60px 20px;
+	}
+	.banner-item h3 {
+	    font-size: 25px;
+	    margin-top: 45px;
+	}
+	.banner-style5 h1 {
+	    font-size: 33px;
+	    line-height: 55px;
+	}
+	.social-block {
+		margin-bottom: 30px;
+	} 
+	.footer-new {
+	    padding: 70px 0;
+	}
+	.contnt-desc-box h1 {font-size: 30px; line-height: 40px;}
+	.donate-box {padding: 190px 20px;}
+	.signup-volunteer {margin-top: 40px;}
+	.camps-caro .owl-nav {
+	    left: auto;
+        margin-left: 0;
+        right: 40px;
+	}
+	.vid-sec2 img {
+	    width: 100%;
+	}
+	.less-spacing-banner .banner-style4 h1 {margin-top: 0;}
+	.less-spacing-banner .banner-style4 {padding: 0;}
+    
+
+}
+
+@media screen and (max-width: 640px){
+	.review-box-inner > i {
+        display: block;
+        margin-right: 0;
+    }
+	 p{font-size:16px;}
+	 header{display:none;}
+	.responsive-header{display:block;}
+	.res-footer-info {position: relative; left: -44px;}
+	.res-info ul li span.info-detail {width: 33%;}
+	.res-info ul li span.bold-info {width: 8%;}
+	.res-login-popup {padding: 15px 35px;}
+	.res-login-form .main-btn {margin-bottom: 20px; margin-top: 20px;}
+	.play-btn {width: 13%;}
+	.title-s .title-desc {width: 82%;}
+	.gap {padding: 50px 0;}
+	
+	.creative-baner-meta span {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.main-title > h3 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.our-vision-meta > h2 {
+		font-size: 20px;
+	}
+	.twitter-feed > i {
+		font-size: 50px;
+	}
+	.party-moto .tab-content {
+		max-width: 100%;
+	}
+	.faq-list > li {
+		width: 46%;
+	}
+	.faq-list > li a {
+		width: 70%;
+	}
+	.testi-item {padding: 100px 80px 60px;}
+	.grid-meta > h4 {
+		font-size: 22px;
+	}
+	.donate-baner > form {
+		width: 90%;
+	}
+	.container {
+		max-width: 620px;
+	}
+	.funfacts .funmeta {
+		width: 100%;
+		text-align: center;
+	}
+	.funmeta > p {font-size: 15px;}
+	.date-time{font-size: 11px;}
+	.quote-title > h2 {
+		font-size: 28px;
+		line-height: 33px;
+		margin-bottom: 20px;
+		padding-right: 0;
+	}
+	.caro-meta {
+		left: 30px;
+		top: 50%;
+		width: 90%;
+	}	
+	body.rtl .caro-meta {
+	    left: auto;
+	    right: 30px;
+	}
+	.featured-caro-btn {
+		display: inline-block !important;
+		padding: 0 30px !important;
+		position: unset;
+		transform: translate(0px);
+		width: 100%;
+	}
+	.about-video-sec .align-left {
+		width: 46.6%;
+	}
+	.donate-baner > h4{font-size: 26px; line-height: 35px;}
+	.blog-detail > h1 {
+		font-size: 28px;
+		line-height: 34px;
+	}
+	.become-supporter{padding: 30px;}
+	.blog-detail p.first-letter::first-letter{font-size: 150px;}
+	.paginato > a{width: 27%;}
+	.blog-detail .current-post > p{font-size: 14px;}
+	.category > span{display: inline-block; width: 100%;}
+	a.main-btn{padding: 14px 30px;}
+	.c-form > p.half{width: 47.8%;}
+	.blog-related figure img{width: 100%;}
+	.blog-post > h2 {
+	    font-size: 26px;
+	    line-height: 35px;
+	}
+	.pagination > li {
+	    margin-bottom: 10px;
+	}
+	.info-box {
+	    padding: 15px 20px;
+	}
+	.info-box > p {
+	    margin-bottom: 0;
+	}
+	.info-box > span {
+	    margin-bottom: 15px;
+	}
+	.banner-title {padding-right: 0px;}
+
+	.slick-prev.slick-arrow{right: -60px;}
+	.slick-next.slick-arrow{right: -45px;}
+	.error-page > h1{font-size: 35px;}
+	.creative-baner-meta span::before {top: -10px; font-size: 60px;}
+	.creative-baner-meta span::after {bottom: -45px; font-size: 60px;}
+	.news-meta > h2 {font-size: 19px;}
+	.nav.nav-tabs.flex-column {text-align: center; margin-top: 0px; padding-right: 0px; float: none; width: 100%; display: block;}
+	.nav-tabs.flex-column > li {margin-right: 15px; display: inline-block; text-align: justify;}
+	.nav-tabs.flex-column > li a.active::before {display: none;}
+	.nav-tabs.flex-column > li a::after {left: -20px; right: auto;}
+	.orginizer {margin-top: 30px;}
+	.twitter-date {margin-top: 6px;}
+	.testi-meta > p {font-size: 18px;}
+	.row.remove-row-gap {
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+	.post-information {margin-bottom: 15px;}
+	.event-data > h2 {margin-bottom: 22px;}
+	footer .widget {margin-bottom: 40px;}
+	.baner-detail {margin-top: 30px; padding-left: 70px;}
+	.quote-title > h2 {margin-bottom: 0;}
+	.speeches-nav-innr.overlap90 {margin-top: 10px; padding: 0 19px 0 18px;}
+	.speeches-nav-car .nav-tabs > li > a {padding: 15px 6px;}
+	.speech-info { width: 95%; left: 4px; bottom: auto; top: 50%; transform: translateY(-50%); transform: -webkit-translateY(-50%); transform: -moz-translateY(-50%);}
+	.custombox-col-6 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 50%;
+	    flex: 0 0 50% !important;
+	    margin-bottom: 0px;
+	}
+	.contribute-mockup {display: none;}
+	.verticl-middle {padding: 30px 0;}
+	.ftr-socials > li {
+	    width: 35%;
+	    padding: 20px 0;
+	}
+	.event-detail-meta > h1 {font-size: 28px; margin-bottom: 16px;}
+	.event-detail-meta > p {font-size: 16px;}
+	.quries > li p {font-size: 14px;}
+	.quries > li {padding-left: 20px;}
+	.quries > li span {font-size: 16px;}
+	.videos-tab .nav-item {margin-right: 42px;}	
+	.videos-tab .nav-item::before {right: -22px;}
+	.video-meta {padding: 0;}
+	.video-meta > h4 {font-size: 20px;}
+	.awards-info > h4 {font-size: 20px;}
+	.award-year .nav-item,
+	body.rtl .award-year li.nav-item {margin-bottom: 20px;}
+	.workers {margin-bottom: 50px;}
+	.info-box > a {bottom: 0; position: relative; left: 0; transform: translate(0); margin-top: 8px;}
+	.content-logo-area {text-align: center; margin-bottom: 20px;}
+	.content-text-area h2 {font-size: 35px; line-height: 40px;}
+	.coming-soon-content {height: 100%;}
+	.intro-video-sec {right: -2px; bottom: -14px;}
+	.intro-video-sec a {width: 40px; line-height: 40px;}
+	.coming-soon-content .social-share-icon {margin: 20px 0 0 0;}	
+	.coming-soon-bg::before {height: 200%;}
+	.coming-soon-bg {overflow: hidden auto;}
+	.intro-video-sec {bottom: -96%; right: 7px;}
+	.content-text-area {padding-left: 0;}
+	.blog-detail .category {width: 100%;}
+	.bg-image2 {background-size: contain !important;}
+	.title-s .title-desc span {margin-bottom: 4px;}
+	.banner-meta p {font-size: 14px;}
+	.banner-meta {padding: 4% 0 16px 0;}
+	.awards-info > p {font-size: 15px;}
+	.award-year2 {padding-right: 20px;}
+	.award-desc {font-size: 14px;}
+	.donation-form-area > p {font-size: 14px !important;}
+	.award-detail ul {padding-left: 10px;}
+	footer .widget_archive,
+	footer .widget_calendar,
+	footer .widget_categories,
+	footer .widget_pages,
+	footer .widget_meta,
+	footer .widget_recent_comments,
+	footer .widget_recent_entries,
+	footer .widget_rss,
+	footer .widget_search,
+	footer .widget_text,
+	footer .widget_tag_cloud,
+	footer .widget_nav_menu,
+	footer .widget_media_gallery {margin-bottom: 40px;}
+	.inner-content {padding-right: 5%;}
+	.video-content {width: 100%; margin-bottom: 30px;}
+	.inner-event-content {padding-left: 0; width: 100%;}
+	.shape-left {display: none;}
+	.info-mete img {width: auto;}
+	.info-mete h5 {padding-left: 14px;}
+	.c-form button, .c-form input.c-button {line-height: 27px;}
+	.res-vision-space .wpb_wrapper .row > div:last-child .our-vision-box {margin-bottom: 0;}
+	.banner-title {width: 100%;}
+	.info-box > span {display: none;}
+	.speech-info > p {max-width: 100%;}
+	.speech-nav-box > span {font-size: 13px;}
+	.speech-nav-box > span i {font-size: 12px; height: 25px; width: 25px; line-height: 25px;}
+	.speeches-nav-car .nav-tabs > li {text-align: center;}
+	.event-meta > h4 {font-size: 20px;}
+	.subsrb-review-box {margin-bottom: 20px;}
+	.contribute-form > input {height: 50px;}
+	.contribute-form > button {padding: 14px 30px;}
+	#remve-sec {padding: 0;}
+	.funfacts > i {width: 100%; margin-right: 0; text-align: center;}
+	body.rtl div.funfacts > i {margin: 0 0 10px;}
+	body.rtl div.funfacts .funmeta {text-align: center;}
+	.creative-baner-meta h2 {font-size: 35px; line-height: 45px;}
+	.vision-boxes {padding-top: 50px;}
+	.event-info-contnt h2 {font-size: 35px; margin-bottom: 15px; line-height: 45px;}
+	.event-info-contnt {padding-bottom: 50px;}
+	.main-title > span {font-size: 15px; margin-bottom: 5px;}
+	.donation-form-banner h4 {font-size: 35px;}
+	.donation-amounts > a {width: 126px;}
+	.workers {margin-bottom: 70px;}
+	.funfacts-item i {margin-bottom: 10px;}
+	.funfacts-item span, 
+	.funfacts-item i.symbol {font-size: 35px; line-height: 45px;}
+	.funfacts-item p {font-size: 16px;}
+	.vid-banner-content {padding: 70px 0;}
+	.vid-banner-content h2 {font-size: 35px;}
+	.vid-banner-content p {font-size: 18px;}
+	.vidplay-btn {height: 130px; width: 130px; line-height: 146px;}
+	.vidplay-btn a {height: 90px; width: 90px; line-height: 90px;}
+	.newsletter-signup h2 {font-size: 30px;}
+	.newsletter-new input[type="email"] {width: 72%;}
+	.newsletter-area .social-signup {margin-left: 0; margin-right: 30px;}
+	.about-widget > p {text-align: left;}
+	.about-widget > p.copyright {text-align: left;}
+	body.rtl .about-widget > p,
+	body.rtl .about-widget > p.copyright {text-align: right}
+	.footer-btn a {float: left;}
+	.res-nooverlap .vc_column-inner {margin-top: 0 !important;}
+	.contact-info-box {margin: 50px 0 0;}
+	.newtest-img {width: 35%; margin: 0 auto; display: block;}
+	.newtesti-content {text-align: center; width: 100%; padding-left: 0;}
+	.owl-prev::before {left: -60px;}
+	.owl-next::before {right: -60px;}
+	.blog-post {padding-bottom: 40px; margin-bottom: 35px;}
+	.single-author-meta {width: 60%;}
+	.comments > li ul .commenter-meta {width: 67%;}
+	.worker-meta > h4 {font-size: 20px;}
+	.worker-meta > span {font-size: 12px;}
+	.countdown .clock {margin-right: 5px;}
+	.page-top {padding: 60px 0;}
+	.about-widget > a > img {margin: 0;}
+	.responsive-header {padding: 12px 24px;}
+	[id*="give-form"] .give-form-title {font-size: 30px; margin-bottom: 15px; margin-top: 15px;}
+	.new-box-shadow .row > div.res-pt {margin-left: 15px; margin-right: 15px;}
+	.new-box-shadow .row > div {padding-left: 15px !important; padding-right: 15px !important;}
+	body.rtl div.new-box-shadow .row > div.res-nooverlap {margin-right: 0;}
+	body.rtl div.new-box-shadow .row > div.res-pt {padding: 50px !important;}
+	.donation-wrapper-content .donation-collection {
+        padding: 0 90px;
+    }
+    .header-banner-innr h1,
+    .banner-style4 h1,
+    .vid-msg-content h2 {
+	    font-size: 35px;
+	}
+	.banner-style5 h1 {
+	    font-size: 30px;
+	    line-height: 50px;
+	}
+	.footer-new {
+	    padding: 50px 0;
+	}
+	.footer-new ul.footer-menu li a {padding-left: 14px; margin-left: 14px;}
+	.heading-sec-style2 h2 {font-size: 35px; line-height: 45px;}
+	.contnt-desc-box {
+	    max-width: 100%;
+	    margin-bottom: 30px;
+	}
+	.donate-box-inf h1 {font-size: 50px;}
+	.heading-sec-style2 {
+	    margin-bottom: 40px;
+	}
+	.camps-caro .owl-nav {
+	    right: 25px;
+	}
+	
+	.mission-title > h2,
+	.abt-wrap > h2 {font-size: 32px;}
+    .mission-title {max-width: 100%;}
+    .banner-style4 {padding-bottom: 60px;}
+    .mission-video span.play-btn > a {
+        line-height: 60px;
+        height: 60px;
+        width: 60px;
+        font-size: 16px;
+    }    
+    .quote-wrap > img + .quote-inner {
+        position: static;
+        max-width: 100%;
+        margin-top: 30px;
+    }    
+    .abt-wrap > h2 {line-height: 39px;}
+
+
+}
+
+
+@media screen and (max-width: 480px){
+	body.logged-in .theme-layout .responsive-header {
+        margin-top: 46px;
+    }
+    html.mycustom {
+        margin-top: 0px !important;
+    }
+	.res-info ul li span.bold-info {
+	    width: 11%;
+	    vertical-align: top;
+	}
+
+    
+    footer {
+    background: #03152d none repeat scroll 0 0;
+    float: left;
+    position: relative;
+    width: 100%;
+    margin-top: 70px;
+}
+
+
+
+
+
+
+
+	.title-s .title-desc {width: 75%;}
+	.login-popup-inner h4 {font-size: 15px;}
+	.popup-clos-btn {margin: 0 auto 10px auto;}
+	.res-searchform input {width: 93%;}
+	.play-btn {width: 17%;}
+	.title-s .title-desc span {font-size: 14px;}
+	.event-data > p {font-size: 14px;}
+	.nav-tabs.flex-column > li a.active::before {display: none;}
+	.banner-meta p {font-size: 14px;}
+	.eventor > span{font-size: 20px;}
+	.eventor {
+		margin-bottom: 20px;
+		padding-left: 20px;
+		position: unset;
+		width: 100%;
+	}
+	.event-slider {
+		padding: 70px 15px;
+		width: 100%;
+	}
+	.event-data {
+		padding-left: 0;
+		width: 100%;
+	}
+	.slider-for-event .tab-pane > span i {
+		display: inline-block;
+	}
+	.countdown > li {margin: 0 8px;}
+	.event-data > h2 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.event-data .countdown > li > span.dots {right: 14px;}
+	.countdown > li > span{border-radius: 0 0 5px 5px;}
+	.party-moto .tab-content {
+	    max-width: 100%;
+	}
+	.orginizer > span {
+		margin-bottom: 12px;
+	}
+	.orginizer > h2 {font-size: 25px; margin-bottom: 22px;}
+	.nav-tabs.flex-column > li {font-size: 16px; margin-right: 8px;}
+	.faq-list > li {
+	    width: 100% !important;
+	}
+	.faq-list > li {
+	    margin: 0 0 10px !important;
+	}
+
+	.faq-list > li {
+	    width: 100%;
+	}
+	.faq-list > li {
+	    margin: 0 0 10px;
+	}
+	footer .row > div:first-child .widget {
+	    margin-top: 0;
+	}		
+	.donate-baner > form input {
+	    padding: 0 20px;
+	    width: 100%;
+	}
+	.select-payment {
+	    margin-left: 10px;
+	    width: 160px;
+	}
+	.funfacts {
+	    padding: 20px 0;
+	}
+	.testi-meta > p {
+	    font-size: 16px;
+	}
+	.side-padding {
+		padding: 0 10px;
+	}
+	.speeches-nav-car .nav-tabs > li{width: 100%;}
+	.speeches-nav-car .nav-tabs > li > a {padding: 15px 18px;}
+	.service-box{margin-bottom: 40px;}
+	.remove-ext-btom{width: auto; float: none;}
+	.subsrb-review-box{margin-bottom: 10px;}
+	.caro-meta > span {
+		background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+		height: auto;
+		line-height: unset;
+		vertical-align: top;
+		width: auto;
+	}
+	.caro-meta > p {
+		line-height: 20px;
+		padding-left: 10px;
+		width: 86%;
+		font-size: 13px;
+	}
+	.caro-meta > h1 {
+		font-size: 22px;
+		line-height: 32px;
+		margin-bottom: 10px;
+		font-weight: 600;
+	}
+	.speech-info > h2 {font-size: 24px;}
+	.btn.btn-link{white-space: normal;}
+	.about-video-sec .align-left {
+    	width: 100%;
+		margin: 0;
+		margin-bottom: 10px;
+	}
+	.about-meta > h2{font-size: 22px;}
+	.sported-media-info{display: inline-block; margin-bottom: 20px;}
+	.error-page > form{max-width: 100%;}
+	.single-author-meta {
+	    margin-top: 10px;
+	    padding-left: 0;
+	    width: 100%;
+	}
+	body.rtl div.single-author-meta {padding: 0;}
+	.commenter-meta {
+	    margin-top: 20px;
+	    padding-left: 0;
+	    width: 100%;
+	}
+	.comments > li ul {
+	    padding-left: 0;
+	}
+	.c-form > p.half {
+	    margin-right: 0;
+	    width: 100%;
+	}
+	.pagination > li.next{margin-left: 10px;}
+	.pagination > li.prev{margin-right: 10px;}
+	.pagination > li{font-size: 13px;}
+	.pagination > li.prev a, .pagination > li.next a{
+		padding: 0 20px;
+	}
+	.info-mete{width: 100%; margin-bottom: 30px;}
+	.donation-form-area > ul > li{
+		margin-right: 5px;
+		padding: 7px 10px;
+		font-size: 15px;
+	}
+	.donation-form-area > h4 {
+	    font-size: 22px;
+	}
+	.donation-from label {
+	    margin-bottom: 10px;
+	    width: 100%;
+	}
+	.payment-methhod {
+	    margin: 0 0 20px;
+	    width: 100%;
+	}
+	.donation-from .chosen-container {
+	    margin-top: 0;
+	    width: 100% !important;
+	}
+	.donation-from > p em {
+	    padding-left: 0;
+	}
+	.donation-from input {
+	    width: 100%;
+	}
+	.paycard-info {
+	    margin-top: 40px;
+	}
+	.donation-from {
+	    margin-top: 10px;
+	}
+	.info-box {
+	    margin-top: 10px;
+	    padding: 30px;
+	    position: unset;
+	    transform: translate(0px);
+	    width: 100%;
+	}
+
+	.slick-next.slick-arrow {
+	    right: -45px;
+	}
+	.slick-prev.slick-arrow {
+	    right: -60px;
+	}
+	.row.remove-row-gap {margin-left: 0px; margin-right: 0px;}
+	.our-aim {padding: 35px 10px;}
+	.funfacts {text-align: center;}
+	.funfacts .funmeta {width: 36%;}
+	.gallery-img {width: 33%; padding: 10px;}
+	.footer-inner-cols .vc_column_container {padding: 0px 40px;}
+	.featured-slide .caro-meta {
+	    top: 50%;
+	    transform: translateY(-50%);
+	    text-align: center;
+	}
+	.gap {
+	    padding: 60px 0;
+	}
+	.service-info > h4 {font-size: 20px;}
+	.testi-meta::before {font-size: 150px;}
+	.top-meta > h2 {font-size: 35px; padding: 0 15px;}
+	.event-detail .countdown > li {margin: 0 10px 0 0;}
+	.event-duration > span {font-size: 14px; display: block; margin-bottom: 10px;}
+	.event-detail-meta .tag span {font-size: 14px;}
+	.event-duration > span::before {right: 28px;}
+	.quries {margin-top: 25px;}
+	.quries > li {width: 100%; margin-bottom: 10px;}
+	.videos-tab .nav-item {margin-bottom: 8px;}
+	.about-video-sec .row > div:first-child {padding-right: 15px;}
+	.about-video-sec .row > div:nth-child(2) {padding-left: 15px;}
+	.orginizer.baner > span {font-size: 14px; letter-spacing: 5px;}
+	.our-awards {margin-bottom: 30px;}
+	.worker-meta > p {font-size: 14px;}
+	.content-text-area .countdown {margin-bottom: 18px;}
+	.next-post-caro .owl-nav .owl-prev span,
+	.next-post-caro .owl-nav .owl-next span {border: none;}
+	.next-post-caro .owl-nav span {display: none;}
+	.countdown > li > span.dots {right: 14px;}
+	.speech-info > a i {font-size: 15px; line-height: 50px;}
+	.speech-info > a {max-width: 50px; margin-right: 20px;}
+	.date-time {font-size: 13px;}
+	.event-meta > h4 {font-size: 18px;}
+	.bg-image2 {background-size: cover !important;}
+	.custombox-col-6 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 100%;
+	    flex: 0 0 100% !important;
+	    margin-bottom: 25px;
+	}
+	.blog-detail > h1 {font-size: 24px;}
+	.blog-detail > span,
+	.blog-detail .category {padding-left: 0;}
+	.award-year {margin-bottom: 40px;}
+	.info-box {padding: 45px 20px}
+	.info-box > a {bottom: 10px;}
+	.contact-info {width: 100%;}
+	.main-search-notfound {padding: 40px;}
+	.inner-event-content h2 {font-size: 30px;}
+	.inner-event-content .date-time span {font-size: 15px;}
+	.event-loc span {font-size: 15px;}
+	.testi-item {padding: 100px 50px 60px;}
+	.main-heading h3 {margin-bottom: 12px;}
+	.become_member p {margin-bottom: 25px;}
+	.twitter-feed {padding: 25px 0;}
+	.creative-baner-meta h2 {font-size: 35px; line-height: 40px; margin-bottom: 15px;}
+	p {font-size: 15px;}
+	.our-vision-meta > h2 {font-size: 22px;}
+	.activity-box {margin-bottom: 35px;}
+	.info-box > p {font-size: 15px;}
+	.info-box > span {display: block; margin: 15px 0px;}
+	.question-anser .btn.btn-link {padding: 20px 24px;}
+	.question-anser .card-body {padding: 30px 22px;}
+	.ftr-socials > li > a span {text-align: center; margin-top: 10px; width: 100%;}
+	.ftr-socials > li > a > i {text-align: center; margin: 0 auto; display: block;}
+	.image-gallery .countdown {position: relative; bottom: -20px; left: 0;}
+	.event-info-contnt h2 {line-height: 40px;}
+	.event-img > a {bottom: 0; position: relative; left: 0; margin-top: 30px; -moz-transform: translateX(0); transform: translateX(0); -webkit-transform: translateX(0);}
+	.donation-form-banner span {font-size: 15px;}
+	.donation-form-banner h4 {font-size: 30px;}
+	.event-info-contnt h2 {font-size: 30px;}
+	.donation-amounts > a {width: 98px; margin-right: 10px;}
+	.main-title > span {font-size: 14px;}
+	.workers img {width: 100%;}
+	.vid-banner-content h2 {line-height: 45px;}
+	.newsletter-new input[type="email"] {width: 63%;}
+	.loc-map {height: 400px;}
+	.newtest-img {width: 40%;}
+	.newtesti-content p {font-size: 20px; line-height: 30px;}
+	.history-txt h2 {font-size: 30px; line-height: 40px;}
+	.blog-detail .tags {padding: 30px 14px;}
+	.next-post-caro .item {width: 70%;}
+	.single-author {padding: 20px;}
+	.single-author > figure {margin-bottom: 10px;}
+	.comment-area {margin-top: 40px;}
+	.comments > li ul .commenter-meta {width: 100%;}
+	.current-post {width: 100%;}
+	.next-post-caro {margin: 40px 0;}
+	.event-duration {margin-bottom: 20px;}
+	.gold-sponsors li {width: 49.333333%; border: none; height: 150px;}
+	.gold-sponsors {border-bottom: 1px solid #f5f5f5;}
+	.event-countdown.countdown {margin-top: 20px; margin-left: 0;}
+	.event-detail-meta {margin-top: 30px;}
+	.responsive-header {padding: 12px 15px;}
+	[id*="give-form"] .give-form-title {font-size: 28px;}
+	.blog-detail blockquote {padding: 45px 65px 44px 88px;}
+	body.rtl .blog-detail blockquote {padding: 45px 88px 44px 65px;}
+	.post-gallery img {margin-bottom: 30px;}
+	.tags > span {display: block; margin-bottom: 15px;}
+	.event-location span {display: block; margin-right: 0; margin-bottom: 8px;}
+	.new-box-shadow .row > div.res-pt {padding: 70px 50px 70px 50px !important;}
+	footer .footer-inner-cols > div:last-child .widget {
+	    margin-bottom: 0;
+	}
+	.post-info > span {padding-right: 10px; margin-right: 10px;}
+	.post-info > span::before {display: none;}
+	.donation-wrapper-content .donation-collection {
+        padding: 0 55px;
+    }
+    .d-payment-type li {margin: 0 0 10px 0;}
+    .d-payment-form .select2-container {min-width: 100%;}
+    .custom-amnt-box input {min-width: auto;}
+    .d-payment-form {padding: 1px 10px 70px 10px;}
+    .donation-wrapper-content .donation-collection {padding: 0 45px;}
+    .header-banner-innr h1, 
+    .banner-style4 h1, 
+    .vid-msg-content h2 {
+	    font-size: 30px;
+	}
+	.vid-msg-content h2 {line-height: 40px;}
+	.banner-item {
+	    padding: 50px 36px;
+	}
+	.banner-style5 h1 {
+	    font-size: 30px;
+	    line-height: 45px;
+	}
+	.footer-new ul.footer-menu li {display: block;}
+	.footer-new ul.footer-menu li + li a {border: none;}
+	.footer-new ul.footer-menu li a {
+	    padding-left: 0;
+	    margin-left: 0;
+	}
+	.camps-info-caro h2 {font-size: 25px;}
+	.heading-sec-style2 h2 {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.signup-volunteer h2 {font-size: 30px;}
+	.donate-box-inf h1 {font-size: 40px;}
+	.camps-caro .owl-nav {
+        right: 15px;
+    }
+    .gall-images > div {width: 148px;}
+    .gall-images-lst li {font-size: 16px;}
+    .camps-desc {margin: 100px 0;;}
+    .remove-golumns-gap.gal-sect .vc_column_container {
+	    padding-left: 15px !important;
+	    padding-right: 15px !important;
+	}
+	
+	.countdown.even-countdown > li {
+        width: 48%;
+        margin: 1% !important;
+        float: left;
+    }
+    body.rtl .countdown.even-countdown > li {float: right;}
+    body.rtl ul.countdown > li > span.dot {left: 14px;}
+    
+    .recuring-paypal[style="display: block;"], 
+    .recuring-paypal[style="display: block;"] + .currency-selct {max-width: 100% !important;}
+    .recuring-paypal[style="display: block;"] + .currency-selct {float: left !important;}
+    .option-isotop ul > li a {
+	    font-size: 13px;
+	    line-height: 40px;
+	    padding: 0 10px !important;
+	    width: auto;
+	}
+	.prodct-title {
+	    width: 62%;
+	}
+	.product-meta {
+	    padding: 20px 15px;
+	}
+	#reviews .review-rating-score-average {
+		font-size: 30px;
+	}
+	#reviews .review-rating-score-max {
+		font-size: 24px;
+	}
+	.nav.nav-tabs.single-btn {
+		margin-bottom: 20px;
+	}
+	.tab-content .woocommerce-Reviews-title,
+	.woocommerce .reply-title {
+		font-size: 30px;
+	}
+	.woocommerce .woocommerce-cart-form .shop_table {
+	    width: 130%;
+	}
+	.woocommerce-cart-form {
+	    overflow-x: auto;
+	    display: block;
+	}
+	.coupon-area .coupon {
+		max-width: 100%;
+	}
+	.woocommerce-cart table.cart td.actions .coupon .input-text {
+		width: 100%;
+	}
+	.woocommerce-page table.cart td.actions .coupon .input-text + .button {
+		float: none;
+		width: 100%;
+	}
+	.woocommerce-cart table.cart td.actions a.button {
+		text-align: center;
+	}
+	.woocommerce-account .woocommerce-MyAccount-navigation {
+	    float: left;
+	    margin-bottom: 50px;
+	}
+	.login > form a.forgot {
+		float: left;
+	}
+	.woocommerce-checkout-review-order {
+		padding: 40px 15px;
+		display: block;
+	}
+	.woocommerce-checkout-review-order > div {
+		display: inline-block;
+		width: 100%;
+	}
+	.woocommerce-checkout-review-order-table {
+		padding: 0 15px;
+	}
+	.woocommerce-checkout-payment {
+		padding-left: 0;
+	}
+	.products-view > li:first-child {
+		display: none;
+	}
+	.products-view > li > * {
+		display: block;
+	}
+	.products-view > li div.product-price {
+		float: left;
+		text-align: left;
+	}
+	.products-view > li {
+		border: none;
+	}
+
+    
+}
+
+@media screen and (max-width: 414px) {
+    .event-date{margin-bottom:8px;}
+    .event-info > h4{margin-bottom:10px;}
+	.countdown > li {margin: 0 5px; width: 70px;}
+	.event-data .countdown > li > span, 
+	.countdown > li > span {font-size: 24px;}
+	.event-data .countdown > li > span.dots, 
+	.countdown > li > span.dots {display: none;}
+	.slider-for-event .tab-pane > span {width: 17.5%;}
+	.event-data {margin-top: 20px;}
+	.worker-meta > p {font-size: 13px;}
+	.worker-meta > h4 {margin-bottom: 10px;}
+	.res-footer-info {position: fixed; left: 0;}
+	.post-by > div {padding-left: 15px;}
+	.award-desc {margin-top: 10px; display: block;}
+	.pre-awards-list ul li {text-align: center;}
+	.pre-awards-list h3 {font-size: 32px;}
+	.tab-content.gray-bg {padding: 50px 20px 30px;}
+	.award-detail > p {font-size: 14px;}
+	.award-detail ul li {font-size: 14px;}
+	.award-detail h2 {font-size: 24px;}
+	.speeches-nav-innr.overlap90 {padding: 0; margin-top: 5px;}
+	.speeches-nav-car .nav-tabs > li > a {padding: 20px 22px;}
+	#moto-sec4 .become-supporter {padding: 50px 30px;}
+	#moto-sec3 h1 {font-size: 32px; line-height: 42px;}
+	.vc_custom_1545978480278 h1 {font-size: 28px;}
+	.blog-post > p {font-size: 15px;}
+	blockquote {padding: 50px 20px;}
+	.s-not-found > h3 span {
+		display: block;
+	}
+	.worker-contact {left: 0; transform: translateX(0); -webkit-transform: translateX(0); -moz-transform: translateX(0);}
+	.worker-contact > ul > li a {height: 33px; line-height: 33px; width: 33px;}
+	.worker-meta > h4 {margin-bottom: 4px;}
+	.main-heading p {font-size: 18px; line-height: 30px;}
+	.become_member h3 {font-size: 35px; line-height: 45px;}
+	.become_member span {font-size: 22px; line-height: 28px;}
+	.col-6 {flex: 0 0 100%; max-width: 100%;}
+	.ftr-socials > li > a span {display: block;}
+	.ftr-socials > li > a > i {display: block;}
+	.ftr-socials > li {width: 44%; text-align: center;}
+	.event-detail-meta {padding-left: 0;}
+	.live-box {position: relative; width: 100%;}
+	.live-box > a {margin-right: 20px; margin-bottom: 0;}
+	.live-box > a i {margin-right: 10px;}
+	.quries {margin-top: 8px;}
+	.post-by > div span.published-date {padding-right: 0; font-size: 13px;}
+	.post-by > div span {padding-right: 0; font-size: 13px;}
+	.post-by > div a {font-size: 13px;}
+	.custombox-col-6 {padding: 0 20px; margin-bottom: 0;}
+	.service-info > a {width: auto;}
+	.service-info:hover > a {bottom: -20px;}
+	.speech-info > h2 {line-height: 32px;}
+	.text-center .creative-baner-meta {width: 100%;}
+	.creative-baner-meta h2 {font-size: 30px;}
+	.event-location span {display: block; margin-right: 0; margin-bottom: 5px;}
+	.event-img > a {position: relative; text-align: center; bottom: 0;}
+	.donation-form-banner h4 {line-height: 40px;}
+	.donation-amounts > a {width: 80px;}
+	.vidplay-btn {height: 100px; width: 100px; line-height: 110px;}
+	.vidplay-btn a {height: 80px; width: 80px; line-height: 82px;}
+	.vidplay-btn a i::before {font-size: 28px;}
+	.blog-main-info {padding: 40px 20px;}
+	.newsletter-new input[type="email"] {width: 100%;}
+	.newsletter-new button {width: 100%; margin-left: 0;}
+	.newtest-img {width: 46%;}
+	.owl-prev::before, 
+	.owl-next::before {left: -50px; height: 35px; width: 35px; line-height: 35px; font-size: 20px;}
+	.owl-next::before {right: -50px; left: auto;}
+	.masonry-grid .galry-img figure img {width: 100%;}
+	.theme_btn_flat {padding: 13px 35px;}
+	.pagination > li a.prev {margin-right: 0;}
+	.pagination > li a.next {margin-left: 0;}
+	.blog-detail p {font-size: 15px;}
+	.tags > span {display: block; margin-bottom: 10px;}
+	.event-detail-meta > h1 {font-size: 26px; line-height: 32px;}
+	#custom-image-box .vc_col-xs-6 {width: 100%;}
+	#custom-image-box .wpb_wrapper > div:last-child {margin-bottom: 30px;}
+	.volunteer-opp-info span > a {font-size: 16px;}
+	.volunteer-opp-info ul li span {font-size: 16px;}
+	.tags > a {display: inline-block; margin-bottom: 10px;}
+	#custom-image-box.gap {padding-top: 0;}
+	.event-info-contnt h2 {max-width: 100%;}
+	.new-box-shadow .row > div.res-pt {padding: 70px 20px 70px 20px !important;}
+	body.rtl div.new-box-shadow .row > div.res-pt {padding: 50px 20px !important;}
+	.about-widget > p {font-size: 16px;}
+	.useful-links > li,
+	.getin-touch p {font-size: 16px;}
+	.widget-title {margin-bottom: 20px;}
+	.post-info > span,
+	body.rtl div.post-info > span {display: block; margin-bottom: 8px;}
+	.countdown .clock {min-width: 88px; width: 88px;}
+	.event-info-contnt p {font-size: 16px;}
+	.donation-wrapper-content .donation-collection {
+        padding: 0 38px;
+    }
+    .donation-amount-list ul > li a {width: 68px;}
+    .donation-amount-list ul > li {margin-right: 0px;}
+    .custom-amnt-box span {
+        height: 65px;
+        width: 65px;
+        line-height: 60px;
+        margin-bottom: 15px;
+    }
+    .header-banner-innr p,
+    .vid-msg-content p,
+    .banner-style4 p,
+    .banner-style5 span {
+	    max-width: 100%;
+	    font-size: 16px;
+    	line-height: 28px;
+	}
+	.banner-item {
+	    padding: 50px 20px;
+	}
+	.banner-style5 h1 {
+	    font-size: 25px;
+	    line-height: 40px;
+	}
+	.gall-images > div {width: 125px;}
+	.camps-desc {
+        margin: 30px 0;
+        padding: 60px 20px;
+    }
+    .camps-caro .owl-nav {bottom: 30px;}
+    .new-stats-file .row > div:last-child .funfacts-item {
+		margin-bottom: 0;
+	}
+	.banner-style4 h1 {
+		margin-top: 25px;
+	}
+	.banner-style4 p {
+		margin: 0 auto 35px;
+	}
+	.banner-style5 p {
+		margin-bottom: 30px;
+	}
+	.social-bar {
+	    padding: 60px 0;
+	}
+	.social-bar .row > div:last-child .social-block {
+		margin-bottom: 0;
+	}
+	.vid-msg-content p {
+		margin-bottom: 22px;
+	}
+
+}
+
+@media screen and (max-width: 376px){
+	.res-info ul li span.info-detail {
+	    width: 38%;
+	}
+	.res-info ul li span.bold-info {width: 14%;}
+	.res-info ul {padding: 32px 0 15px 0;}
+	.res-footer-info {
+	    position: fixed;
+	    left: 0;
+	}
+	.res-login-popup {padding: 45px 35px;}
+	.popup-clos-btn {margin: 0 auto 35px auto;}
+	.login-popup-inner h4 {font-size: 20px;}
+	.res-login-form .main-btn {margin-top: 30px; margin-bottom: 30px;}
+	.res-searchform i {width: 4%;}
+	.res-searchform input {width: 90%; font-size: 15px;}
+	.play-btn {width: 100%;}
+	.title-s .title-desc {width: 100%; text-align: center;}
+	.title-s .title-desc h4 {font-size: 26px;}
+	.banner-meta p {text-align: center;}
+	.banner-meta a.main-btn {margin: 0 34%;}
+	.donate-baner > form {
+	    padding: 15px;
+	    width: 100%;
+	}
+	.donate-baner > form input {
+	    border: 2px solid #f4f4f4;
+	    border-radius: 3px;
+	    line-height: initial;
+	    padding: 10px 20px;
+	}
+	.info-mete{width: 100%; margin-bottom: 30px;}
+	.question-anser .card-body{padding-left: 35px; padding-right: 35px;}
+	.countdown > li {width: 68px; margin: 0 auto;}
+	.slider-nav-event h4 {font-size: 16px;}
+	.slider-nav-event li > span {font-size: 11px;}
+	.eventor {padding: 30px 20px;}
+	.event-data .countdown > li > span {font-size: 20px;}
+	.event-data .countdown > li > span.dots {display: none;}
+	.slider-for-event .tab-pane > span {width: 24%;}
+	.event-data {margin-top: 10px;}
+	.post-information > a {font-size: 13px;}
+	.mail-form {padding: 38px 20px;}
+	.bottom-bar span {font-size: 12px;}
+	.col-6 {flex: 0 0 100%; max-width: 100%;}
+	.banner-title > h4 {font-size: 25px; line-height: 30px;}
+	.countdown > li > span.dots {display: none;}
+	.testi-meta > p {font-size: 15px; line-height: 23px;}
+	.testi-meta::before {font-size: 140px;}
+	.gallery-img {width: 50%;}
+	.twitter-date > p {font-size: 14px; line-height: 24px;}
+	.footer-inner-cols .vc_column_container {padding: 0px;}
+	.feature-with-caro.side-padding {padding-right: 0; padding-left: 0;}
+	.caro-meta > h1 {font-size: 20px; line-height: 22px;}
+	.featured-caro-btn li a span.thumb-title {left: 5px;}
+	.speech-info > h2 {line-height: 28px;}
+	.speech-info > a {margin-right: 20px; max-width: 40px;}
+	.speech-info > a i {font-size: 12px; line-height: 35px;}
+	.speeches-nav-car .nav-tabs > li > a {padding: 15px 45px;}
+	.custombox-col-6 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 50%;
+	    flex: 0 0 100% !important;
+	    margin-bottom: 15px;
+
+	}
+	.ftr-socials > li > a > i {display: block; margin-bottom: 5px;}
+	.ftr-socials > li > a span {width: 100%; display: block;}
+	.image-gallery .countdown {right: 5px;}
+	.event-detail .countdown > li {margin: 0 2px;}
+	.event-duration > span::before {display: none;}
+	.event-detail-meta > h1 {font-size: 22px;}
+	.live-box {position: relative; width: 100%;}
+	.live-box > a {margin-right: 20px; margin-bottom: 0;}	
+	.event-detail-meta {padding-left: 0;}
+	.event-duration > span {display: block; padding-right: 0;}
+	.tab-content.gray-bg {padding: 50px 20px;}
+	.award-detail > h4 {font-size: 22px;}
+	.award-detail > p {font-size: 14px; line-height: 28px;}
+	.login-area {padding: 40px 20px 0;}
+	.coming-soon-content {
+		transform: translate(-50%, 0);
+		-webkit-transform: translate(-50%, 0);
+		-moz-transform: translate(-50%, 0);
+	}
+	.content-text-area .countdown > li {width: 60px;}
+	.content-text-area .countdown > li > span {font-size: 18px;}
+	.subcription-form input.form-control {width: 100%;}
+	.subcription-form .main-btn {margin: 10px auto;}
+	.donate-baner > a {margin-bottom: 10px;}
+	.counter-timer {
+	    padding: 50px 5px;
+	}
+	.countdown > li > span {font-size: 22px;}
+	.counter-meta > h3 {font-size: 26px; line-height: 40px;}
+	.counter-meta > span {font-size: 16px;}
+	.btn.btn-link {font-size: 14px;}
+	.speech-box > img {height: 180px;}
+	.main-search-notfound {padding: 40px 20;}
+	.countdown-new > li {margin-right: 30px;}
+	.countdown-new {width: 340px; padding: 12px 15px;}
+	.countdown-new > li p {margin-top: -4px;}
+	.testi-item {padding: 100px 20px 60px;}
+	.creative-baner-meta h2 {font-size: 30px; line-height: 35px;}
+	.main-title > h3 {font-size: 26px; line-height: 30px;}
+	.nav-tabs.flex-column > li {font-size: 14px;}
+	.orginizer {margin-top: 20px;}
+	.become_member h3 {font-size: 30px; line-height: 35px;}
+	.question-anser .btn.btn-link {padding: 20px 35px;}
+	.countdown .clock {margin-right: 4px;}
+	.blog-main-info h2 {font-size: 22px;}
+	.blog-mini-info {padding-left: 22px;}
+	.blog-mini-info h2 {font-size: 20px;}
+	.vid-banner-content h2 {font-size: 30px;}
+	.donation-amounts > a {margin-right: 2px;}
+	.c-form button, 
+	.c-form input.c-button {padding: 12px 35px !important;}
+	.donation-btn > a {height: 58px; line-height: 34px;}
+	.theme_btn_flat {padding: 12px 30px;}
+	.newsletter-new input[type="email"] {height: 70px;}
+	.newsletter-new button {height: 70px;}
+	.newtest-img {width: 50%;}
+	.newtesti-content p {font-size: 18px; line-height: 28px;}
+	.history-txt h2 {font-size: 28px;}
+	.history-txt span {font-size: 18px;}
+	.blog-post > h2 {font-size: 24px; line-height: 33px;}
+	.post-info > img {margin-right: 10px;}
+	.tags > a {margin-right: 8px; padding-right: 8px;}
+	[id*="give-form"] .give-form-title {font-size: 25px; line-height: 34px;}
+	form.give-form legend.give-payment-mode-label {padding: 24px 20px; margin-top: 30px;}
+	.event-info-contnt h2 {font-size: 26px; line-height: 35px;}
+	.blog-detail blockquote p {font-size: 18px; line-height: 30px;}
+	.top-meta {padding: 0 15px;}
+	.countdown .clock {min-width: 79px; width: 79px;}
+	.event-location span {font-size: 14px;}
+	.countdown .clock > div {font-size: 24px;}
+	.donation-info h2 {font-size: 26px; line-height: 32px;}
+	.donation-wrapper-content .donation-collection {display: block; text-align: center; margin-bottom: 10px;}
+	.donation-wrapper-content .donation-collection::before {display: none;}
+	.donation-amount-list ul > li {margin-bottom: 6px; display: block;}
+	.donation-amount-list ul > li a {margin: 0 auto;}
+	.header-banner-innr h1, 
+	.banner-style4 h1, 
+	.vid-msg-content h2 {
+	    font-size: 26px;
+	}
+	.vid-msg-content h2 {
+		line-height: 35px;
+	}
+	.vid-msg-content p {
+		margin-bottom: 22px;
+	}
+	.banner-item h3 {
+	    font-size: 22px;
+	    margin-top: 50px;
+	}
+	.banner-item a {font-size: 12px;}
+	.heading-sec-style2 h2 {
+	    font-size: 25px;
+	    line-height: 35px;
+	}
+	.gall-images > div {
+        width: 115px;
+    }
+    .vid-msg-content {
+	    margin-bottom: 40px;
+	}
+    
+    .join-form-wrap {
+        padding: 55px 30px;
+    }
+
+
+}
+
+@media screen and (max-width: 360px){
+	.creative-baner-meta h2 {font-size: 25px; line-height: 32px;}
+	.countdown .clock {min-width: 75px; width: 75px;}
+	.donation-amounts > a {width: 75px;}
+	.main-title > span {font-size: 13px;}
+	.blog-mini-info h2 {font-size: 18px;}
+	.our-clients li img {margin: 0 auto;}
+	.donation-ctext h2 {font-size: 20px; line-height: 25px;}
+	.main-heading h3 {font-size: 25px;}
+	.newtest-img {width: 52%;}
+	.newtest-img {width: 55%;}
+	.post-info > img {margin-right: 8px;}
+	.top-meta > h2 {font-size: 32px;}
+	.blog-detail > h1 {font-size: 22px; line-height: 32px;}
+	.event-detail-meta .tag span {font-size: 13px;}
+	.event-duration > span {font-size: 13px;}
+	.gold-sponsors li {height: 120px;}
+	.custom-amnt-box input {
+        min-width: 100%;
+    }
+    .banner-style5 h1 {
+	    font-size: 20px;
+	    line-height: 33px;
+	}
+	.header-banner-innr h1, 
+	.banner-style4 h1, 
+	.vid-msg-content h2 {
+	    font-size: 22px;
+	}
+	.vid-msg-content h2 {
+	    line-height: 30px;
+	}
+	.contnt-desc-box h1 {
+	    font-size: 26px;
+	    line-height: 38px;
+	}
+	.vid-sec2 h4 {width: 100%; text-align: center; bottom: 15px;}
+	.donate-box .donate-box-inf {padding: 0 25px;}
+	.gall-images > div {
+        width: 104px;
+    }
+
+}
+
+
+@media screen and (max-width: 320px){
+	.res-info ul li span.bold-info {
+	    width: 18%;
+	    margin-left: 30px;
+	}
+	.res-info ul li span.info-detail {
+	    width: 44%;
+	}
+	.res-searchform input {width: 86%; font-size: 14px;}
+	.res-searchform i {width: 6%;}
+	.res-search-close-btn {right: 8px;}
+	.banner-meta a.main-btn {margin: 0 32%;}
+	.posted-by{width: 77%;}
+	.blog-post > h2{font-size: 22px; line-height: 28px;}
+	.payment-methhod > a{margin-right: 4px;}
+	.middle-verticle > p {font-size: 15px;}
+	.countdown > li {width: 60px;}
+	.post-information > span::before {display: none;}
+	.btn.btn-link {font-size: 14px; padding: 15px;}
+	.card-body {padding: 20px 15px;}
+	.btn.btn-link::after {display: none;}
+	.testimonial-sec .owl-prev::before, .testimonial-sec .owl-next::before {font-size: 50px;}
+	.testi-meta > p {font-size: 15px;}
+	.testi-meta::before {font-size: 150px;}
+	.caro-meta > p {font-size: 11px;}
+	.caro-meta > h1 {font-size: 15px;}
+	.featured-caro-btn li a span.thumb-title span {display: none;}
+	.speech-info > h2 {font-size: 15px; line-height: 25px;}
+	.speeches-nav-car .nav-tabs > li > a {padding: 17px 36px;}
+	.sidebar .widget {padding: 45px 10px;}
+	.opinion {padding: 30px 15px;}
+	.event-detail-meta > h1 {font-size: 20px;}
+	.event-detail-meta .tag span {font-size: 12px;}
+	.event-detail-meta > p {font-size: 14px;}
+	.ftr-socials > li > a span {font-size: 15px;}
+	.donate-baner > a {margin-right: 5px;}
+	.award-year {margin-bottom: 30px;}
+	.question-anser .btn.btn-link span.accord-title {width: 100%; margin-top: 10px;}
+	.content-text-area h2 {font-size: 30px; line-height: 35px;}
+	.content-text-area .countdown > li {width: 58px; margin: 0 5px;}
+	.banner-title {padding-left: 15px; padding-right: 15px;}
+	.banner-title > p {font-size: 14px; line-height: 25px;}
+	.baner-detail {padding-left: 38px;}
+	.counter-meta > h3 {font-size: 28px; line-height: 38px;}
+	.counter-meta > span {font-size: 16px;}
+	.tab-btn li a {font-size: 13px;}
+	.question-anser .btn.btn-link {padding: 15px 35px;}
+	.question-anser .card-body {font-size: 14px;}
+	.inner-event-content h2 {font-size: 28px; line-height: 40px;}
+	.countdown-new > li {margin-right: 40px;}
+	.countdown-new > li > span.dots {left: -26px;}
+	.become_member h3 {font-size: 30px;}
+	.become_member span {font-size: 22px;}
+	.become_member p {font-size: 15px;}
+	.gap {padding: 40px 0;}
+	.vc_custom_1546407077959 {margin-top: 20px !important;}
+	.event-detail-meta > h1 {margin-top: 0px; margin-bottom: 12px;}
+	.event-detail-meta .tag {margin-bottom: 20px;}
+	.event-info-contnt h2 {font-size: 25px; line-height: 35px;}
+	.countdown .clock {min-width: 65px; width: 65px;}
+	.countdown .clock > div {font-size: 18px;}
+	.countdown .clock > div.label {font-size: 12px;}
+	.donation-form-banner h4 {font-size: 26px; line-height: 35px;}
+	.donation-amounts > a {width: 67px;}
+	.blog-main-info h2 {font-size: 20px;}
+	.blog-main-info {padding: 30px 20px; box-shadow: inset 4px -108px 80px -40px rgb(27, 40, 62);}
+	.blog-mini-info {width: 100%; padding-left: 0; margin-top: 15px;}
+	.blog-mini-img {width: 100%;}
+	.our-clients li {height: 170px;}
+	.loc-map {height: 370px;}
+	.newsletter-signup h2 {font-size: 26px;}
+	.owl-nav {display: none;}
+	.history-block {margin-bottom: 30px;}
+	.top-meta > h2 {font-size: 30px;}
+	.breadcrumb-item {font-size: 15px;}
+	.post-info {margin-bottom: 30px;}
+	.blog-post figure {margin-bottom: 30px;}
+	.main-title > h3 {font-size: 23px; line-height: 28px;}
+	.campaign-box p {font-size: 16px;}
+	.main-heading h3 {font-size: 22px;}
+	.contact-info-box {padding: 65px 30px;}
+	.blog-detail blockquote {padding: 45px 40px 44px 88px;}
+	body.rtl .blog-detail blockquote {padding: 45px 88px 44px 40px;}
+	.countdown .clock > div {line-height: 25px;}
+	.custom-amnt-box input {width: 100%;}
+	#camps-info {bottom: 6px; left: 30px;}
+	#camps-info span {font-size: 35px;}
+	.donate-box-inf h1 {font-size: 30px;}
+	.gall-images > div {
+        width: 95px;
+        padding: 0 5px;
+    }
+    
+    .col-xs-6 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+}

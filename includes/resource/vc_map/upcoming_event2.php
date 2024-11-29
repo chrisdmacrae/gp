@@ -1,0 +1,78 @@
+<?php
+return array(
+	'name'     => esc_html__( 'Upcoming Event Style 2', 'actavista' ),
+	'base'     => 'upcoming_event2',
+	'icon'     => get_template_directory_uri() . '/assets/images/vc_icon.png',
+	'category' => esc_html__( 'Actavista', 'actavista' ),
+	'params'   => array(
+		array(
+			'type'              => 'textarea',
+			'class'             => '',
+			'heading'           => esc_html__( 'Text', 'actavista' ),
+			'param_name'        => 'text',
+			'description'       => esc_html__( 'Enter text to show.', 'actavista' ),
+		),
+		array(
+			'type'              => 'dropdown',
+			'class'             => '',
+			'heading'           => esc_html__( 'Select Event', 'actavista' ),
+			'param_name'        => 'select_event',
+			'value'             => array_flip(actavista_get_posts_blocks( 'actavista_event' )),
+			'description'       => esc_html__( 'Select event post to show in this section.', 'actavista' ),
+		),
+		array(
+			'type'              => 'textfield',
+			'class'             => '',
+			'heading'           => esc_html__( 'Title Limit', 'actavista' ),
+			'param_name'        => 'title_limit',
+			'group'             => esc_html__( 'General Settings', 'actavista' ),
+			'description'       => esc_html__( 'Enter event title words limit.', 'actavista' ),
+		),
+		array(
+			'type'              => 'checkbox',
+			'class'             => '',
+			'param_name'        => 'show_event_counter',
+			'value'             => array( 'Enable Event Counter' => 'true' ),
+			'description'       => esc_html__( 'Enable to show event counter.', 'actavista' ),
+		),
+		array(
+			'type'              => 'checkbox',
+			'class'             => '',
+			'param_name'        => 'show_post_image',
+			'value'             => array( 'Enable Event Video' => 'true' ),
+			'description'       => esc_html__( 'Enable to show event video.', 'actavista' ),
+		),
+		array(
+			'type'              => 'checkbox',
+			'class'             => '',
+			'param_name'        => 'show_post_location',
+			'value'             => array( 'Enable Event Location' => 'true' ),
+			'description'       => esc_html__( 'Enable to show event location.', 'actavista' ),
+		),
+		array(
+			'type'              => 'checkbox',
+			'class'             => '',
+			'param_name'        => 'show_post_date',
+			'value'             => array( 'Enable Event Post Publish Date' => 'true' ),
+			'description'       => esc_html__( 'Enable to show event post publish date.', 'actavista' ),
+		),
+		array(
+			'type'              => 'checkbox',
+			'class'             => '',
+			'param_name'        => 'show_post_button',
+			'value'             => array( 'Enable Event Button' => 'true' ),
+			'description'       => esc_html__( 'Enable to show event button.', 'actavista' ),
+		),
+		array(
+			'type'              => 'textfield',
+			'class'             => '',
+			'heading'           => esc_html__( 'Button Label', 'actavista' ),
+			'param_name'        => 'btn_label',
+			'description'       => esc_html__( 'Enter button label to show.', 'actavista' ),
+			'dependency'    => array( 
+				'element'   => 'show_post_button',
+				'value'     =>  'true',
+			),
+		),
+	),
+);

@@ -1,0 +1,362 @@
+.loader {
+    position: relative;
+    text-align: center;
+    user-select: none;
+    cursor: default;
+    width: 100%;
+    font-size: large;
+    clear: both;
+}
+
+.loader span {
+    position: relative;
+    font-size: 3.5em;
+    /* bottom:3em; */
+    /* left:-1.5em; */
+    z-index: 5;
+    color: #403833;
+    z-index: 999 !important;
+}
+
+.clouds {
+    font-size: 50px;
+    padding: 0;
+}
+
+.cloud {
+    position: relative;
+    display: inline-block;
+    width: 0.602em;
+}
+
+.cloud:after,
+.cloud:before {
+    content: "";
+    position: relative;
+    display: block
+}
+
+.cloud:before {
+    -webkit-animation: cloud 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    -moz-animation: cloud 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    -mos-animation: cloud 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    -o-animation: cloud 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    animation: cloud 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    -webkit-transform: translateY(.5em) scale(0);
+    -moz-transform: translateY(.5em) scale(0);
+    -mos-transform: translateY(.5em) scale(0);
+    -o-transform: translateY(.5em) scale(0);
+    transform: translateY(.5em) scale(0);
+    width: 1em;
+    height: 1em;
+    border-radius: 50%
+}
+
+.cloud:after {
+    -webkit-animation: cloud-shadow 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    -moz-animation: cloud-shadow 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    -mos-animation: cloud-shadow 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    -o-animation: cloud-shadow 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    animation: cloud-shadow 1s cubic-bezier(.455, .03, .515, .955) infinite alternate forwards;
+    bottom: -.75em;
+    width: 1em;
+    height: .25em;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -mos-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -mos-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);
+    background-color: #322b27 !important
+}
+
+.cloud:nth-child(1):after,
+.cloud:nth-child(1):before {
+    -webkit-animation-delay: 0s;
+    -moz-animation-delay: 0s;
+    -mos-animation-delay: 0s;
+    -o-animation-delay: 0s;
+    animation-delay: 0s;
+    background: #db2f00
+}
+
+.cloud:nth-child(2):after,
+.cloud:nth-child(2):before {
+    -webkit-animation-delay: .25s;
+    -moz-animation-delay: .25s;
+    -mos-animation-delay: .25s;
+    -o-animation-delay: .25s;
+    animation-delay: .25s;
+    background: #ff6d37
+}
+
+.cloud:nth-child(3):after,
+.cloud:nth-child(3):before {
+    -webkit-animation-delay: .5s;
+    -moz-animation-delay: .5s;
+    -mos-animation-delay: .5s;
+    -o-animation-delay: .5s;
+    animation-delay: .5s;
+    background: #ffa489
+}
+
+.cloud:nth-child(4):after,
+.cloud:nth-child(4):before {
+    -webkit-animation-delay: .75s;
+    -moz-animation-delay: .75s;
+    -mos-animation-delay: .75s;
+    -o-animation-delay: .75s;
+    animation-delay: .75s;
+    background: #f2f2f2
+}
+
+.cloud:nth-child(5):after,
+.cloud:nth-child(5):before {
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    -mos-animation-delay: 1s;
+    -o-animation-delay: 1s;
+    animation-delay: 1s;
+    background: #99d3d4
+}
+
+.cloud:nth-child(6):after,
+.cloud:nth-child(6):before {
+    -webkit-animation-delay: 1.25s;
+    -moz-animation-delay: 1.25s;
+    -mos-animation-delay: 1.25s;
+    -o-animation-delay: 1.25s;
+    animation-delay: 1.25s;
+    background: #56bebf
+}
+
+.cloud:nth-child(7):after,
+.cloud:nth-child(7):before {
+    -webkit-animation-delay: 1.5s;
+    -moz-animation-delay: 1.5s;
+    -mos-animation-delay: 1.5s;
+    -o-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+    background: #13a3a5
+}
+
+.cloud:nth-child(8):after,
+.cloud:nth-child(8):before {
+    -webkit-animation-delay: 1.75s;
+    -moz-animation-delay: 1.75s;
+    -mos-animation-delay: 1.75s;
+    -o-animation-delay: 1.75s;
+    animation-delay: 1.75s
+}
+
+.cloud:nth-child(9):after,
+.cloud:nth-child(9):before {
+    -webkit-animation-delay: 2s;
+    -moz-animation-delay: 2s;
+    -mos-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s
+}
+
+.cloud:nth-child(10):after,
+.cloud:nth-child(10):before {
+    -webkit-animation-delay: 2.25s;
+    -moz-animation-delay: 2.25s;
+    -mos-animation-delay: 2.25s;
+    -o-animation-delay: 2.25s;
+    animation-delay: 2.25s
+}
+
+.cloud:nth-child(11):after,
+.cloud:nth-child(11):before {
+    -webkit-animation-delay: 2.5s;
+    -moz-animation-delay: 2.5s;
+    -mos-animation-delay: 2.5s;
+    -o-animation-delay: 2.5s;
+    animation-delay: 2.5s
+}
+
+.cloud:nth-child(12):after,
+.cloud:nth-child(12):before {
+    -webkit-animation-delay: 2.75s;
+    -moz-animation-delay: 2.75s;
+    -mos-animation-delay: 2.75s;
+    -o-animation-delay: 2.75s;
+    animation-delay: 2.75s
+}
+
+.cloud:nth-child(13):after,
+.cloud:nth-child(13):before {
+    -webkit-animation-delay: 3s;
+    -moz-animation-delay: 3s;
+    -mos-animation-delay: 3s;
+    -o-animation-delay: 3s;
+    animation-delay: 3s
+}
+
+.cloud:nth-child(14):after,
+.cloud:nth-child(14):before {
+    -webkit-animation-delay: 3.25s;
+    -moz-animation-delay: 3.25s;
+    -mos-animation-delay: 3.25s;
+    -o-animation-delay: 3.25s;
+    animation-delay: 3.25s
+}
+
+.cloud:nth-child(15):after,
+.cloud:nth-child(15):before {
+    -webkit-animation-delay: 3.5s;
+    -moz-animation-delay: 3.5s;
+    -mos-animation-delay: 3.5s;
+    -o-animation-delay: 3.5s;
+    animation-delay: 3.5s
+}
+
+.cloud:nth-child(16):after,
+.cloud:nth-child(16):before {
+    -webkit-animation-delay: 3.75s;
+    -moz-animation-delay: 3.75s;
+    -mos-animation-delay: 3.75s;
+    -o-animation-delay: 3.75s;
+    animation-delay: 3.75s
+}
+
+.cloud:nth-child(17):after,
+.cloud:nth-child(17):before {
+    -webkit-animation-delay: 4s;
+    -moz-animation-delay: 4s;
+    -mos-animation-delay: 4s;
+    -o-animation-delay: 4s;
+    animation-delay: 4s
+}
+
+.cloud:nth-child(18):after,
+.cloud:nth-child(18):before {
+    -webkit-animation-delay: 4.25s;
+    -moz-animation-delay: 4.25s;
+    -mos-animation-delay: 4.25s;
+    -o-animation-delay: 4.25s;
+    animation-delay: 4.25s
+}
+
+.cloud:nth-child(19):after,
+.cloud:nth-child(19):before {
+    -webkit-animation-delay: 4.5s;
+    -moz-animation-delay: 4.5s;
+    -mos-animation-delay: 4.5s;
+    -o-animation-delay: 4.5s;
+    animation-delay: 4.5s
+}
+
+.cloud:nth-child(20):after,
+.cloud:nth-child(20):before {
+    -webkit-animation-delay: 4.75s;
+    -moz-animation-delay: 4.75s;
+    -mos-animation-delay: 4.75s;
+    -o-animation-delay: 4.75s;
+    animation-delay: 4.75s
+}
+
+.cloud:nth-child(21):after,
+.cloud:nth-child(21):before {
+    -webkit-animation-delay: 5s;
+    -moz-animation-delay: 5s;
+    -mos-animation-delay: 5s;
+    -o-animation-delay: 5s;
+    animation-delay: 5s
+}
+
+.cloud:nth-child(22):after,
+.cloud:nth-child(22):before {
+    -webkit-animation-delay: 5.25s;
+    -moz-animation-delay: 5.25s;
+    -mos-animation-delay: 5.25s;
+    -o-animation-delay: 5.25s;
+    animation-delay: 5.25s
+}
+
+.cloud:nth-child(23):after,
+.cloud:nth-child(23):before {
+    -webkit-animation-delay: 5.5s;
+    -moz-animation-delay: 5.5s;
+    -mos-animation-delay: 5.5s;
+    -o-animation-delay: 5.5s;
+    animation-delay: 5.5s
+}
+
+.cloud:nth-child(24):after,
+.cloud:nth-child(24):before {
+    -webkit-animation-delay: 5.75s;
+    -moz-animation-delay: 5.75s;
+    -mos-animation-delay: 5.75s;
+    -o-animation-delay: 5.75s;
+    animation-delay: 5.75s
+}
+
+@-webkit-keyframes cloud {
+    50% {
+        -webkit-transform: translateY(.5em) scale(0)
+    }
+
+    100% {
+        -webkit-transform: translateY(0) scale(1)
+    }
+}
+
+@-webkit-keyframes cloud-shadow {
+    50% {
+        -webkit-transform: scale(0)
+    }
+
+    100% {
+        -webkit-transform: scale(.75)
+    }
+}
+
+@-moz-keyframes cloud {
+    50% {
+        -moz-transform: translateY(.5em) scale(0)
+    }
+
+    100% {
+        -moz-transform: translateY(0) scale(1)
+    }
+}
+
+@-moz-keyframes cloud-shadow {
+    50% {
+        -moz-transform: scale(0)
+    }
+
+    100% {
+        -moz-transform: scale(.75)
+    }
+}
+
+100% {
+    -mos-transform: translateY(0) scale(1)
+}
+
+100% {
+    -mos-transform: scale(.75)
+}
+
+100% {
+    -o-transform: translateY(0) scale(1)
+}
+
+100% {
+    -o-transform: scale(.75)
+}
+
+100% {
+    transform: translateY(0) scale(1)
+}
+
+100% {
+    transform: scale(.75)
+}

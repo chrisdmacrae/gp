@@ -1,0 +1,68 @@
+<?php
+return array(
+	'name'     => esc_html__( 'Upcoming Event', 'actavista' ),
+	'base'     => 'upcoming_event',
+	'icon'     => get_template_directory_uri() . '/assets/images/vc_icon.png',
+	'category' => esc_html__( 'Actavista', 'actavista' ),
+	'params'   => array(
+		array(
+			'type'              => 'dropdown',
+			'class'             => '',
+			'heading'           => esc_html__( 'Select Event', 'actavista' ),
+			'param_name'        => 'select_event',
+			'value'             => array_flip(actavista_get_posts_blocks( 'actavista_event' )),
+			'description'       => esc_html__( 'Select event post to show in this section.', 'actavista' ),
+		),
+		array(
+			'type'              => 'textfield',
+			'class'             => '',
+			'heading'           => esc_html__( 'Subtitle', 'actavista' ),
+			'param_name'        => 'subtitle',
+			'group'             => esc_html__( 'General Settings', 'actavista' ),
+			'description'       => esc_html__( 'Enter subtitle to show.', 'actavista' ),
+		),
+		array(
+			'type'              => 'textfield',
+			'class'             => '',
+			'heading'           => esc_html__( 'Title Limit', 'actavista' ),
+			'param_name'        => 'title_limit',
+			'group'             => esc_html__( 'General Settings', 'actavista' ),
+			'description'       => esc_html__( 'Enter event title words limit.', 'actavista' ),
+		),
+		array(
+			'type'              => 'textfield',
+			'class'             => '',
+			'heading'           => esc_html__( 'Text Limit', 'actavista' ),
+			'param_name'        => 'text_limit',
+			'group'             => esc_html__( 'General Settings', 'actavista' ),
+			'description'       => esc_html__( 'Enter event post content words limit.', 'actavista' ),
+		),
+		array(
+			'type'              => 'checkbox',
+			'class'             => '',
+			'param_name'        => 'show_event_counter',
+			'value'             => array( 'Enable Event Counter' => 'true' ),
+			'description'       => esc_html__( 'Enable to show event counter.', 'actavista' ),
+		),
+		array(
+			'type'              => 'checkbox',
+			'class'             => '',
+			'param_name'        => 'show_post_image',
+			'value'             => array( 'Enable Event Image' => 'true' ),
+			'description'       => esc_html__( 'Enable to show event image.', 'actavista' ),
+		),
+		array(
+			'type'              => 'dropdown',
+			'class'             => '',
+			'heading'           => esc_html__( 'Select Event Image Position', 'actavista' ),
+			'param_name'        => 'position',
+			'value'             => array( esc_html__( 'Left Side', 'actavista' ) => 'left',  esc_html__( 'Right Side', 'actavista' ) => 'right' ),
+			'description'       => esc_html__( 'Select event post image position to show.', 'actavista' ),
+			'std'               => 'left',
+			'dependency'        => array( 
+				'element'   => 'show_post_image',
+				'value'     =>  'true',
+			),
+		), 
+	),
+);
